@@ -20,7 +20,7 @@ author: Ola Michalec
 ###############################################
 
 navbar-links:
-  About Us: "aboutme"
+  About Us: "aboutus"
   News: "news"
   Publications: "publications"
   Digital Twins: 
@@ -30,8 +30,8 @@ navbar-links:
    - Ethics: "ethics"
    - Data sharing: "data-sharing"
   Cyber Security: 
-   - Innovation: "cyber1"
-   - Regulations: "cyber2"
+   - Innovation: "cyber-innovation"
+   - Regulations: "cyber-regulation"
   Artworks: "gallery"
   
 
@@ -146,17 +146,17 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#faf5f4"
-text-col: "#0f0f0f"
-link-col: "#0a730a"
-hover-col: "#ffde00"
-navbar-col: "#0f1210" 
-navbar-text-col: "#bbbdb9"
-navbar-border-col: "#eb1ce3"
-footer-col: "#0f1210"
-footer-text-col: "#faf5f4"
-footer-link-col: "#404040"
-footer-hover-col: "#00c5ff"
+page-col: "#faf5f4" #off white
+text-col: "#000000" # black
+link-col: "#00ccff" #light blue
+hover-col: "#ffcc00" #yellow
+navbar-col: "#000000" 
+navbar-text-col: "#e8e8e8" #light gray
+navbar-border-col: "#ff33cc" #fushca 
+footer-col: "#000000"
+footer-text-col: "#e8e8e8"
+footer-link-col: "#ff33cc" #fuchia 
+footer-hover-col: "#00ccff" #blue
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
