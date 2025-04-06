@@ -13,9 +13,10 @@ title: Publications
 
 * **Presentation**: Developing digital twins in the energy industry. Value in Energy Data webinar series. Energy Systems Catapult. [Video](https://www.youtube.com/watch?v=m7YmwzSdXxM&t=2115s&ab_channel=EnergySystemsCatapult) 
 
-* **Consultation response:** "Artificial intelligence (AI) in the energy sector guidance: consultation". Response to Ofgem. By Michalec, O. [Full text]
+* **Consultation response:** "Artificial intelligence (AI) in the energy sector guidance: consultation". Response to Ofgem. By Michalec, O. [Full text](assets/Ofgem-AI-consultation-070225.pdf )
 
-* **Consultation response:** "Open consultation on Copyright and Artificial Intelligence". Response to the DCMS. By Michalec, O. [Full text]
+* **Consultation response:** "Open consultation on Copyright and Artificial Intelligence". Response to the DCMS. By Michalec, O. [Full text](assets/Ai copyright consultation-sharing.pdf)
+
 
 #### 2024
 
