@@ -10,8 +10,6 @@ title: About us
 
 
 
-TODO: complete the collaborators and acknowledgements list
-
 This website is built by Dr Ola Michalec. Ola is a Lecturer in Digital Futures based at the University of Bristol Business School (Bristol Digital Futures Institute).
 
 Ola’s research interests revolve around understanding how experts from diverse fields collaborate on digital innovations. Over the past decade, she has applied this question to the context of critical infrastructures, cyber security, and energy industry. Ola contributes to debates in Science and Technology Studies and plays an active role in communities such as [Research Institute for Sociotechnical Cyber Security](https://riscs.org.uk/).
@@ -27,10 +25,10 @@ Ola’s research interests revolve around understanding how experts from diverse
 ![my headshot](assets/img/2019 CDT Cyber Oct machines small-6.jpg){: width="350" }{:style="display:block; margin-left:auto; margin-right:auto"}
 
 ### Collaborators
-We would like to credit the following people who contributed to the project:
-* co-authors: Joe Bourne, Awais Rashid, Andrés Domínguez, Partha Das Choudhury, Marvin Ramokapane, Emily Godwin, Emily Johnstone, Alicia Cork, Dirk van der Linden, Sveta Milyaeva, Ben Shreeve, Nina H Di Cara, Natalie Zelenka, Huw Day, Euan DS Bennet, Vanessa Hanschke, Valerio Maggio, Charles Radclyffe, Roman Shkunov, Emma Tonkin, Zoë Turner, Kamilla Wells, Cian O’Donovan, Joshua R Moon
-* artists: Jonny Heath, Ian Keavney, Jordan Collver, Eve Pyra, Mary Hart, Liz Ormian, Aude Nasr, Wen Li, Oliver Dean
-* critical friends: Sam Young, *todo critical hype studies folx*, Peter Winter, Andrés Domínguez, *todo editors*, Carsten Horn, Ruzanna Chitchyan
+We would like to credit the following people who contributed to various initiatives along the way:
+* co-authors: Joe Bourne, Awais Rashid, Andrés Domínguez, Partha Das Choudhury, Marvin Ramokapane, Emily Godwin, Emily Johnstone, Alicia Cork, Dirk van der Linden, Sveta Milyaeva, Ben Shreeve, Andrew Dwyer, Colin Topping, Nina H Di Cara, Natalie Zelenka, Huw Day, Euan DS Bennet, Vanessa Hanschke, Valerio Maggio, Charles Radclyffe, Roman Shkunov, Emma Tonkin, Zoë Turner, Kamilla Wells, Cian O’Donovan, Joshua R Moon, Enda Hayes, Jim Longhurst, Dave Tudgey
+* artists: Jonny Heath, Ian Keavney (crash stop), Jordan Collver, Eve Pyra, Mary Hart, Liz Ormian, Aude Nasr, Wen Li, Oliver Dean, Disect, alex wifi
+* critical friends: Sam Young, Laurence Fahrni, Steve Cordle, Louise Evans, Andreu Belsunces Gonçalves, Wenzel Mehnert, Vassilis Galanos, Dani Shanley, Jascha Bareis, Pierre Depaz, Isa Luiten, Peter Winter, Andrés Domínguez, Lucía Argüelles Ramos, Zora Kovacic, Carsten Horn, Ruzanna Chitchyan
 
 ### Acknowledgements
 We are grateful to our funders for their ongoing support, in particular:
