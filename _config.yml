@@ -152,7 +152,7 @@ link-col: "#00ccff" #light blue
 hover-col: "#fdff00" #yellow
 navbar-col: "#000000" 
 navbar-text-col: "#e8e8e8" #light gray
-navbar-border-col: "#ff33cc" #fushca 
+navbar-border-col: "#fdff00" yellow
 footer-col: "#000000"
 footer-text-col: "#e8e8e8"
 footer-link-col: "#ff33cc" #fuchia 
