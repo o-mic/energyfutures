@@ -149,7 +149,7 @@ navbar-var-length: false
 page-col: "#f6f6f6" #ligh gray
 text-col: "#000000" # black
 link-col: "#0a7aeb" # mid blue
-hover-col: "#fdff00" #yellow
+hover-col: "#f6f6f6" #grey 
 navbar-col: "#000000" 
 navbar-text-col: "#f6f6f6" #light gray
 navbar-border-col: "#fdff00" #yellow
