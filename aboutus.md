@@ -14,6 +14,7 @@ This website is designed and maintained by Dr Ola Michalec. Ola is a Lecturer in
 
 Ola’s research interests revolve around understanding how experts from diverse fields collaborate on digital innovations. Over the past decade, she has applied this question to the context of critical infrastructures, cyber security, and energy industry. Ola contributes to debates in Science and Technology Studies and plays an active role in communities such as [Research Institute for Sociotechnical Cyber Security](https://riscs.org.uk/).
 
+
 **Check out Ola's web presence below:**
 
 [Google Scholar](https://scholar.google.com/citations?user=abDmargAAAAJ&hl=en&oi=ao)
@@ -24,13 +25,16 @@ Ola’s research interests revolve around understanding how experts from diverse
 
 [University of Bristol profile](https://www.bristol.ac.uk/people/person/Ola-Michalec-71ecc9a4-46cc-44f7-b382-ab767d7dc1c5/)
 
+
 ![my headshot](assets/img/2019 CDT Cyber Oct machines small-6.jpg){: width="350" }{:style="display:block; margin-left:auto; margin-right:auto"}
+
 
 ### Collaborators
 We would like to credit the following people who contributed to various initiatives along the way:
 * co-authors: Joe Bourne, Awais Rashid, Andrés Domínguez, Partha Das Choudhury, Marvin Ramokapane, Emily Godwin, Emily Johnstone, Alicia Cork, Dirk van der Linden, Sveta Milyaeva, Ben Shreeve, Andrew Dwyer, Colin Topping, Nina H Di Cara, Natalie Zelenka, Huw Day, Euan DS Bennet, Vanessa Hanschke, Valerio Maggio, Charles Radclyffe, Roman Shkunov, Emma Tonkin, Zoë Turner, Kamilla Wells, Cian O’Donovan, Joshua R Moon, Enda Hayes, Jim Longhurst, Dave Tudgey
 * artists: Jonny Heath, Ian Keavney (crash stop), Jordan Collver, Eve Pyra, Mary Hart, Liz Ormian, Aude Nasr, Wen Li, Oliver Dean, Disect, alex wifi
 * critical friends: Sam Young, Laurence Fahrni, Steve Cordle, Louise Evans, Andreu Belsunces Gonçalves, Wenzel Mehnert, Vassilis Galanos, Dani Shanley, Jascha Bareis, Pierre Depaz, Isa Luiten, Peter Winter, Andrés Domínguez, Lucía Argüelles Ramos, Zora Kovacic, Carsten Horn, Ruzanna Chitchyan
+
 
 ### Acknowledgements
 We are grateful to our funders for their ongoing support, in particular:
@@ -44,8 +48,10 @@ We are grateful to our funders for their ongoing support, in particular:
 ![esc logo](assets/img/esc-logo.png){: width="150" }
 ![innovation launchpad logo](assets/img/innovationnetwork.png){: width="150" }
 
+
 ### Website artworks
 The images accompanying the website were created by [Ian Keavney](https://crash-stop.blogspot.com/) (aka crash stop).  Thank you for creating an another glitch in the matrix!
+
 
 ### Design
 The website has been built by me with help from the Beautiful Jekyll template. Tips and feedback welcome - so far, I've been really enjoying taking baby steps in web design! - Ola
