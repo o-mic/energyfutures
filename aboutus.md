@@ -10,9 +10,11 @@ title: About us
 
 
 
-This website is built and maintained by Dr Ola Michalec. Ola is a Lecturer in Digital Futures based at the University of Bristol Business School (Bristol Digital Futures Institute).
+This website is designed and maintained by Dr Ola Michalec. Ola is a Lecturer in Digital Futures based at the University of Bristol Business School (Bristol Digital Futures Institute).
 
 Ola’s research interests revolve around understanding how experts from diverse fields collaborate on digital innovations. Over the past decade, she has applied this question to the context of critical infrastructures, cyber security, and energy industry. Ola contributes to debates in Science and Technology Studies and plays an active role in communities such as [Research Institute for Sociotechnical Cyber Security](https://riscs.org.uk/).
+
+**Check out Ola's web presence below:**
 
 [Google Scholar](https://scholar.google.com/citations?user=abDmargAAAAJ&hl=en&oi=ao)
 
@@ -43,4 +45,7 @@ We are grateful to our funders for their ongoing support, in particular:
 ![innovation launchpad logo](assets/img/innovationnetwork.png){: width="150" }
 
 ### Website artworks
-The images accompanying the website were created by [Ian Keavney](https://crash-stop.blogspot.com/) (aka crash stop).  Hope you enjoy the glitch in the matrix ;) 
+The images accompanying the website were created by [Ian Keavney](https://crash-stop.blogspot.com/) (aka crash stop).  Thank you for creating an another glitch in the matrix!
+
+### Design
+The website has been built by me with help from the Beautiful Jekyll template. Tips and feedback welcome - so far, I've been really enjoying taking baby steps in web design! - Ola
