@@ -28,11 +28,11 @@ We inquired into five instances of collaboration in the water industry cyber sec
 
 ![rego4](assets/gallery/rego4.png){:style="display:block; margin-left:auto; margin-right:auto"}{: width="600" }{: height="600" }
 
-* In ["Industry Responses to the European Directive on Security of Network and Information Systems (NIS): Understanding policy implementation practices across critical infrastructures"](https://www.usenix.org/conference/soups2020/presentation/michalec), we found that the emerging field of Operational Technology Security is yet to formulate norms, standards and career trajectories.
+* In ["Industry Responses to the European Directive on Security of Network and Information Systems (NIS): Understanding policy implementation practices across critical infrastructures"](https://www.usenix.org/conference/soups2020/presentation/michalec), we found that the emerging field of Operational Technology Security is yet to formulate its norms, standards and career trajectories.
 * We identified a number of security tropes. We define them as widely held beliefs which require a further level of detail before they can be successfully applied to the OT context. Due to the combination of rhetorical qualities like generalisation, ambiguity and strong normativity, they lead to the creation of advice which can be easily marketed at mass scale. As they’re quite vague,
 they can appeal to professionals from diverse backgrounds.
-* The tropes idetified are: 1) Separation means security; 2) IIoT is inevitable; 3) Security solutions are the same across the sectors; 4) Raising awareness leads to security.
-* We presented a classification of cyber security practices mapping the diversity of policy interpretations: 1) Compliance; 2) Workaround; 3) Going above and beyond policy remit; 4) Negotiation
+* The tropes identified are: 1) Separation means security; 2) IIoT is inevitable; 3) Security solutions are the same across the sectors; 4) Raising awareness leads to security.
+* We presented a classification of cyber security practices mapping the diversity of policy interpretations: 1) Compliance; 2) Workaround; 3) Going above and beyond policy remit; 4) Negotiation. This classification questions a common assumption that infrastructure operators merely comply with regulations. In fact, they take a very active role in shaping NIS. 
 
 **Policy Recommendations:**
 
