@@ -10,7 +10,7 @@ title: About us
 
 
 
-This website is designed and maintained by Dr Ola Michalec. Ola is a Lecturer in Digital Futures based at the University of Bristol Business School (Bristol Digital Futures Institute).
+This website is designed and maintained by Dr Ola Michalec. Ola is a Lecturer in Digital Futures based at the University of Bristol Business School ([Bristol Digital Futures Institute](https://www.bristol.ac.uk/bristol-digital-futures-institute/)).
 
 Ola’s research interests revolve around understanding how experts from diverse fields collaborate on digital innovations. Over the past decade, she has applied this question to the context of critical infrastructures, cyber security, and energy industry. Ola contributes to debates in Science and Technology Studies and plays an active role in communities such as [Research Institute for Sociotechnical Cyber Security](https://riscs.org.uk/).
 
@@ -24,6 +24,10 @@ Ola’s research interests revolve around understanding how experts from diverse
 
 
 [University of Bristol profile](https://www.bristol.ac.uk/people/person/Ola-Michalec-71ecc9a4-46cc-44f7-b382-ab767d7dc1c5/)
+
+[LinkedIn](https://www.linkedin.com/in/dr-ola-michalec-95b036a2/)
+
+[BlueSky](https://bsky.app/profile/olamichalec.bsky.social)
 
 
 ![my headshot](assets/img/2019 CDT Cyber Oct machines small-6.jpg){: width="350" }{:style="display:block; margin-left:auto; margin-right:auto"}
@@ -50,7 +54,7 @@ We are grateful to our funders for their ongoing support, in particular:
 
 
 ### Website artworks
-The images accompanying the website were created by [Ian Keavney](https://crash-stop.blogspot.com/) (aka crash stop).  Thank you for creating an another glitch in the matrix!
+The images accompanying the website were created by [Ian Keavney](https://crash-stop.blogspot.com/) (aka crash stop). Keep it glichy!
 
 
 ### Design
