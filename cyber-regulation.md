@@ -35,17 +35,17 @@ they can appeal to professionals from diverse backgrounds.
 
 The tropes identified are: 1) Separation means security; 2) IIoT is inevitable; 3) Security solutions are the same across the sectors; 4) Raising awareness leads to security.
 
-![Soups1](assets/gallery/Soups1.png){:style="display:block; margin-left:auto; margin-right:auto"}{: width="500" }{: height="500" }
+![Soups1](assets/gallery/Soups1.png){:style="display:block; margin-left:auto; margin-right:auto"}{: width="400" }{: height="400" }
 
-![Soups2](assets/gallery/Soups2.png){:style="display:block; margin-left:auto; margin-right:auto"}{: width="500" }{: height="500" }
+![Soups2](assets/gallery/Soups2.png){:style="display:block; margin-left:auto; margin-right:auto"}{: width="400" }{: height="400" }
 
-![Soups3](assets/gallery/Soups3.png){:style="display:block; margin-left:auto; margin-right:auto"}{: width="500" }{: height="500" }
+![Soups3](assets/gallery/Soups3.png){:style="display:block; margin-left:auto; margin-right:auto"}{: width="400" }{: height="400" }
 
-![Soups4](assets/gallery/Soups4.png){:style="display:block; margin-left:auto; margin-right:auto"}{: width="500" }{: height="500" }
+![Soups4](assets/gallery/Soups4.png){:style="display:block; margin-left:auto; margin-right:auto"}{: width="400" }{: height="400" }
   
 We presented a classification of cyber security practices mapping the diversity of policy interpretations: 1) Compliance; 2) Workaround; 3) Going above and beyond policy remit; 4) Negotiation. This classification questions a common assumption that infrastructure operators merely comply with regulations. In fact, they take a very active role in shaping NIS.
 
-![Soups5](assets/gallery/Soups5.png){:style="display:block; margin-left:auto; margin-right:auto"}{: width="400" }{: height="300" }
+![Soups5](assets/gallery/Soups5.png){:style="display:block; margin-left:auto; margin-right:auto"}{: width="350" }{: height="300" }
 
 **Policy Recommendations:**
 * Recommendation 1 (for CNIs operators deciding on improvement plans): Know about and protect yourselves against threats which circumvent air-gapped systems. Check whether alternatives to air-gapping comply with safety standards.
@@ -82,7 +82,7 @@ Prof. Awais Rashid (PI), Dr Dirk van der Linden (Co-I), Dr Sveta Milyaeva (Co-I)
 ![10365](assets/img/10365.gif){:style="display:block; margin-left:auto; margin-right:auto"}{: width="350" }{: height="350" }
 
 
-### <p style="text-align: center;"> What’s next for the NIS Directive? Extending the community of interest to better understand the Indicators of Good Practice</p>
+<h3><p style="text-align: center;"> What’s next for the NIS Directive? Extending the community of interest to better understand the Indicators of Good Practice</p></h3>
 
 Since 2018, the European Union member states and the UK have been working on implementing the Network and Information Systems Security (NIS) Directive. The literature analysing the framing of NIS (e.g. [Michels and Walden, 2018](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3297470), and [Wallis and Johnson, 2020](https://ieeexplore.ieee.org/abstract/document/9139641)) points at two main policy concerns: (i) the operators will fail to share or disclose information about cybersecurity measures and breaches and, as a result,  (ii) we will lack the understanding of co-dependencies (i.e., how security issues impact other areas of business). Our recent work through RITICS on NIS implementation (Michalec et al., [2020](https://www.usenix.org/conference/soups2020/presentation/michalec) and [2022](https://journals.sagepub.com/doi/full/10.1177/20539517221108369)) confirmed that both the goals of NIS and OT security issues are poorly understood outside of the narrow circle of experts. In particular, the Indicators of Good Practice (IGP) need further refining to better illustrate the progress in maturity.
 
@@ -113,21 +113,33 @@ My project found that the implementation of NIS is the first step to integrate s
 * Recommendation 5: Clarify communications about the aims of Cyber Assessment Framework, i.e., specify whether the document serves the purpose of compliance or independent risk assessment.
 
 **Policy Recommendations on the Cyber Assessment framework:**
+
 * Recommendation 6: Competent Authorities to clearly communicate the aim of self-assessments to the operators as well as the executive boards (i.e., CAF as a way to identify gaps, manage risks and agree on implementation plans). As a result, operators will not under pressure to achieve ‘green’ Indicators of Good Practice at all costs.
+
 * Recommendation 7: Competent Authorities to emphasise the need to evidence operators’ cyber security journey over time. The evolution of cyber security posture over time is more important than self-assessing an outcome as ‘green’.
+
 * Recommendation 8: Competent Authorities to highlight the need to continuous maintenance of ‘green’ CAF status. Operators ought to include CAF cyber security measures as their business-as-usual and prepare a long-term program of maintaining good cyber security outcomes
+
 * Recommendation 9: In the future, CAF inspections should move towards the analysis of emerging risks, gaps and evaluating operators’ responses over time.
 
 **Policy Recommendations regarding the scope of NIS in the UK:**
 
 * Recommendation 10: The UK Government ought to balance between the proposed broadening of the scope of the EU NIS2 and advancing maturity of safety-critical systems.
+
 * Recommendation 11: The UK Government should share the strategic directions with regards to the future of NIS to enable alignment with similar initiatives.
+
 * Recommendation 12: The UK Government ought to respond to the dilemma between achieving a common baseline and proactive risk management.
+
 * Recommendation 13: All stakeholders should consider the cascading effects on small operators that currently do not fall under scope, especially as interoperability and digitalisation initiatives are under way
+
 * Recommendation 14: The UK Government ought to balance between the proposed broadening of the scope (DCMS, 2022) and advancing maturity of safety-critical systems.
+
 * Recommendation 15: The UK Government should share the strategic directions with regards to the future of NIS to enable alignment with similar initiatives (e.g., standardisation of Energy Smart Appliances (BEIS, 2022).
+
 * Recommendation 16: The UK Government ought to respond to the dilemma between achieving a common baseline and proactive ‘outcomes-based’ risk management. A consideration of two-tier regulatory measures ought to take place to address this dilemma.
+
 * Recommendation 17: All stakeholders should consider the cascading effects on small operators that currently do not fall under scope, especially as interoperability and digitalisation initiatives are under way (BEIS, 2022).
+
 * Recommendation 18:  Future UK Government activities ought to prioritise communicating clarity in the strategic direction. We need a timely response to the EU proposals on NIS2 to enable harmonisation at the international level and cross-referencing NIS to upcoming standards (e.g., consumer IoT security) and sectoral security initiatives (e.g., Energy Smart Appliances). We can expect renewed discussions on scope, incident thresholds and the notion of the ‘appropriateness and proportionality’.
 
 **Project team:** Dr Ola Michalec (Fellow)
