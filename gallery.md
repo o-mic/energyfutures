@@ -4,7 +4,9 @@ layout: page
 permalink: /gallery/
 ---
 
-TODO: each project leads to a sub page
+This section is an archive of my recent creative collaboration with various visual artists, fiction writers and other researchers! Most of the projects below speak directly to the notion of energy futures, though I have also thrown in a few which relate to digital innovations in general ;).
+
+The artworks may appear lighthearted at first, though I'm extremely serious about engagement! Too often, sociotechnical research is presented solely as a critique, often in journals already receptive to the messages calling for just transitions or analysing the inequitable outcomes of capitalism. Instead, my approach focuses on shifting narratives about digital technologies and foregrounding forgotten histories, celebrating maintenance workers and questioning the nature of error and repair. I hope that our stories, illustrations and interactive displays will galvanise a new chapter in the public debate about energy and digital futures!
 
 <div class="gallery">
   <div class="gallery-item">
