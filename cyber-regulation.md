@@ -45,7 +45,7 @@ The tropes identified are: 1) Separation means security; 2) IIoT is inevitable; 
   
 We presented a classification of cyber security practices mapping the diversity of policy interpretations: 1) Compliance; 2) Workaround; 3) Going above and beyond policy remit; 4) Negotiation. This classification questions a common assumption that infrastructure operators merely comply with regulations. In fact, they take a very active role in shaping NIS.
 
-![Soups5](assets/gallery/Soups5.png){:style="display:block; margin-left:auto; margin-right:auto"}{: width="350" }{: height="300" }
+![Soups6](assets/gallery/Soups6.png){:style="display:block; margin-left:auto; margin-right:auto"}{: width="350" }{: height="300" }
 
 **Policy Recommendations:**
 * Recommendation 1 (for CNIs operators deciding on improvement plans): Know about and protect yourselves against threats which circumvent air-gapped systems. Check whether alternatives to air-gapping comply with safety standards.
@@ -92,11 +92,11 @@ This project contributed towards building a community of both cyber security exp
 
 * In the report ["What’s next for the NIS Regulations? Findings from the RITICS Fellowship"](https://ritics.org/wp-content/uploads/2023/06/Whats-next-for-NIS-RITICS-report-final-310123.pdf), we investigate the Cyber Assessment Framework (CAF) introduced in the NIS Regulations. It is designed as a guidance outlining desired outcomes of good cyber security practices that facilitate independent risk management among the Operators of Essential Services. However, my project found a paradox regarding the use of CAF. Despite being designed to guide independent risk assessment and discourage ‘box ticking’, in some cases, CAF has been used as a prescriptive document, outlining exactly what needs to be achieved for compliance. This was justified with poor understanding of industrial assets and associated security risks across the Operators. We argue that outcome-based regulations are more likely to be successful once the stakeholders identify and apply a set of baseline security improvements. Such improvements ought to be benchmarked across the sector, linked to the traditional requirement of safety, and culturally accepted by Operational Technology engineers.
 
-(image here)
+![Policy1](assets/gallery/Policy1.jpg){:style="display:block; margin-left:auto; margin-right:auto"}{: width="400" }{: height="400" }
 
 My project found that the implementation of NIS is the first step to integrate safety and security through novel risk management practices observed in our fieldwork, such as broadening of threat and incident reporting scope to include security incidents and safety accidents. Successful implementation of NIS involves a variety of collaborations, e.g., across managers and technical professionals, across the operators, and across safety and security experts, as shown on the figure below. However, we also show that security risk management practices cannot be directly transplanted from the safety realm. This is because cyber security is grounded in anticipation of the future uncertain adversarial behaviours, while safety risk management relies on a long history of data on equipment failure rates. As such, we call for exercising care while transplanting concepts from ‘safety culture’ into the realm of cyber security. Going forward, we recommend that NIS stakeholders encourage collaborative practices to implement NIS and advance security at a societal level, rather than working at organisational level only.
 
-(image here)
+![Ritics1](assets/gallery/Ritics1.png){:style="display:block; margin-left:auto; margin-right:auto"}{: width="500" }{: height="600" }
 
 * In the guidance [Resolving anti-patterns](https://ritics.org/wp-content/uploads/2023/10/ICS-COI-Resolving-Anti-Patterns.pdf), written collaboratively with the Industrial Control Systems Community of Interest, we identified five 'anti-patterns' (or poor practices), common in OT environments. We unpicked the thinking behind those anti-patterns, explains why they are examples of poor practice and proposed better alternatives. The anti-patterns analysed in the report are: 1) Flat, unsegmented/unsegregated architectures; 2) Uncontrolled access to ICS/OT networks; 3) Lack of authentication and data security; 4) Inaccurate asset inventory; 5) Unchecked backups.
 
