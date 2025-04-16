@@ -4,7 +4,7 @@ title: Regulations
 ![cyber2](assets/img/cyber2.gif){:style="display:block; margin-left:auto; margin-right:auto"}{: width="350" }{: height="350" }
 
 
-### <p style="text-align: center;">How many shades of NIS? Understanding organisational cultures and sectoral differences during cyber security policy implementation</p>
+<h3> <p style="text-align: center;">How many shades of NIS? Understanding organisational cultures and sectoral differences during cyber security policy implementation</p></h3>
 
 The project developed an empirically-grounded understanding of the role and impact of organisational cybersecurity cultures and practices across essential infrastructure sectors on the UK’s implementation of the Network and Information Systems (NIS) Regulations. We uncovered organisational and sectoral differences, for instance, in the ways which people work, what technologies (software/hardware) are relied upon, what additional compliance requirements exist. This yielded key insights about the NIS objectives that are already achieved, the ones difﬁcult to effectively realise and potential blind spots arising from organisational cultures and sectoral practices. 
 
