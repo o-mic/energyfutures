@@ -4,15 +4,43 @@ title: Innovation
 
 ![Cyber1](assets/img/cyber1.gif){:style="display:block; margin-left:auto; margin-right:auto"}{: width="350" }{: height="350" }
 
-TODO: rewrite to highlight main findings
 
-### Understanding disruptive powers of IoT in the energy sector 
+<h3> <p style="text-align: center;"> Understanding disruptive powers of IoT in the energy sector </p> </h3> 
 
 The Internet of Thngs (IoT) is expected to play a major part in the ongoing transition of energy systems. With the possibility of new actors, tariffs, appliances and relationships, IoT could disrupt the energy market – whether for the better or worse. The notion of “disruption” should not be taken for granted – IoT’s success relies on software developers’ assumptions as well as regulatory requirements with regards security, privacy and data sharing. What arrangements are “good enough” to make IoT work? What are the social implications of these arrangements? What are the regulatory gaps resulting from development of IoT? How do we facilitate development of responsible innovation where IoT is aligned with policy goals of decarbonisation, affordability and security?
 
 Previous research on IoT in energy focuses on appliances, consumers and emerging technologies. So far, there has been little focus on IoT in energy organisations and interactions between them. Without critical social science research on the disruptive powers of IoT to security and privacy of energy markets, there is a risk that energy innovation will not be aligned with public interest. The researchers will deliver reports on the future of current policies like Network and Information Systems Security Regulation and proposed regulations to consumer IoT security, and will engage with stakeholders in the field to inform current initiatives.
 
-**Project team:** Prof Awais Rashid (PI), Dr Ola Michalec (Researcher Co-I), Joe Bourne (Creative Engagement)
+**Main findings:**
+
+* In ["Who will keep the lights on? Expertise and inclusion in cyber security visions of future energy systems"](https://doi.org/10.1016/j.erss.2023.103327), we explored how experts envision the future(s) of cyber security governance in the energy sector. The three imaginaries identified present cyber security issues as a matter of design, as a support function, and as public trust. We argue that while each vision prioritises a different set of actions, none of them adequately considers the interplay between inclusivity and expertise. By exploring what each of these potential futures enables, hinders, or assumes, as well as how they compete or complement each other, we derive a number of recommendations to ensure cyber security expertise becomes more inclusive, democratic and participatory.
+
+(image)
+
+* In ["Electric feels: The role of visual methods in energy futuring"](https://doi.org/10.1002/geo2.156)
+
+(images and x-links)
+
+**Policy Recommendations:**
+
+* Recommendation 1: The upcoming cyber security regulatory initiatives (Energy Smart Appliances, consumer IoT, NIS2) should signpost to the existing electrical safety guidelines to avoid the conflicts between these two requirements.
+  
+* Recommendation 2:	Policymakers ought to revise the applicability of electrical safety regulations in the light of energy digitalisation and the advent of new requirements like security or privacy.
+
+* Recommendation 3: Open data initiatives in the energy sector should challenge the current culture of secrecy in critical infrastructure by mandating a role parallel to data protection officers in GDPR.
+
+* Recommendation 4: Cyber security expertise in the energy sector ought to be recognised under the government ‘green jobs’ targets.
+
+* Recommendation 5: Programs engaging the public with smart energy (e.g., Smart Energy GB) should address digital literacy and digital inclusion with tailored guidelines for prospective consumers.
+  
+* Recommendation 6: Smart energy standardisation bodies (e.g., British Standards Institute - BSI) ought to collaborate with social scientists to resolve the tension between the need to create a benchmarked security standard in the industry and the requirement to make smart technologies tailored to underserved populations.
+
+* Recommendation 7: Smart energy policymakers and designers of smart appliances should widen their stakeholder circle during consultations and co-design activities. Consultations should involve citizens and be concerned with user experience.
+
+* Recommendation 8: We recommend closer collaborations between the energy policymakers and civic rights groups. The Department for Energy Security and Net Zero ought to proactively create consultation opportunities for stakeholders advocating inclusion. Likewise, civic rights groups ought to build their technology capabilities to challenge unfair developments.
+
+
+**Project team:** Prof Awais Rashid (PI), Dr Ola Michalec (Researcher Co-I), Dr Ben Shreeve (Researcher) Joe Bourne (Creative Engagement)
 
 **Outputs:** 
 
