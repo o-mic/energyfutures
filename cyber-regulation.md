@@ -15,15 +15,18 @@ The project developed an empirically-grounded understanding of the role and impa
 
 * In ["Reconfiguring governance: How cyber security regulations are reconfiguring water governance"](https://doi.org/10.1111/rego.12423), we argue that the Network and Information Systems Regulations acts as a boundary object that gathers diverse communities of practice without the need to establish common goals.
 
-![rego1](assets/gallery/rego1.png){:style="display:block; margin-left:auto; margin-right:auto"}{: width="350" }{: height="350" }
+![rego1](assets/gallery/rego1.jpg){:style="display:block; margin-left:auto; margin-right:auto"}{: width="350" }{: height="350" }
   
 Further, in the process of transposing the EU NIS Directive into the sectoral and national context, NIS requires interpretation by diverse expert communities. We show how translating the regulatory scope to the sectoral landscape involves prioritising some water governance goals over others. As expert communities converge in their collaboration practices, their priorities align or stand in tension with public interests. We argue that cyber security regulations have potential to reconfigure water governance by refocusing strategic priorities away from traditional concerns of environmental governance. 
 
 ![rego2](assets/gallery/rego2.png){:style="display:block; margin-left:auto; margin-right:auto"}{: width="350" }{: height="350" }
 
-We suggest ways to maintain diverse collaborations across engineering, computing, and water expertise that Network and Information Systems implementation remains aligned with the goals of water governance.
 
 ![rego3](assets/gallery/rego3.png){:style="display:block; margin-left:auto; margin-right:auto"}{: width="350" }{: height="350" }
+
+We inquired into five instances of collaboration in the water industry cyber security landscape. We analysed whether they help or hinder with the alignment of NIS and public interest. Finally, we suggested ways to maintain diverse collaborations across engineering, computing, and water expertise that Network and Information Systems implementation remains aligned with the goals of water governance.
+
+![rego4](assets/gallery/rego4.png){:style="display:block; margin-left:auto; margin-right:auto"}{: width="350" }{: height="350" }
 
 **Policy Recommendations:**
 
