@@ -13,22 +13,31 @@ The project developed an empirically-grounded understanding of the role and impa
 * In ["When the future meets the past: can safety and cyber security coexist in modern critical infrastructures?"]((https://doi.org/10.1177/20539517221108369)), we argue that the implementation of Network and Information Systems Security Directive is the first step in the integration of safety and security through novel risk management practices. Therefore, it is the move towards legitimising the modernisation of critical infrastructures. But we also show that security risk management practices cannot be directly transplanted from the safety realm, as cyber security is grounded in anticipation of the future adversarial behaviours rather than the history of equipment failure rates.
 * We present our argument in four parts. First, by establishing that safety-security integration was key for engineers accepting the modernisation agenda. Second, by outlining collective risk management practices that enabled diverse practitioners to collaborate (risk thinking hivemind, diversity in expertise, trust in collaborations). Third, by highlighting how practitioners borrowed elements from safety culture and incorporated it to security (harmonised threat and incident reporting, maintenance contracts). Fourth, by cautioning that epistemic and material differences between the old world of legacy technologies and novel big data tools pose limits to the future of critical infrastructures modernisation (namely, engineers trained to reason in prescriptive terms, secrecy in cyber, differing logics of risk assessment between safety and security professions).
 
-* In ["Reconfiguring governance: How cyber security regulations are reconfiguring water governance"](https://doi.org/10.1111/rego.12423), we argue that the Network and Information Systems Regulations acts as a boundary object that gathers diverse communities of practice without the need to establish common goals.
+* In ["Reconfiguring governance: How cyber security regulations are reconfiguring water governance"](https://doi.org/10.1111/rego.12423), we argue that the Network and Information Systems Regulations acts as a 'boundary object' that gathers diverse communities of practice, enabling collaboration without the need to establish common goals.
 
 ![rego1](assets/gallery/rego1.jpg){:style="display:block; margin-left:auto; margin-right:auto"}{: width="350" }{: height="350" }
   
-Further, in the process of transposing the EU NIS Directive into the sectoral and national context, NIS requires interpretation by diverse expert communities. We show how translating the regulatory scope to the sectoral landscape involves prioritising some water governance goals over others. As expert communities converge in their collaboration practices, their priorities align or stand in tension with public interests. We argue that cyber security regulations have potential to reconfigure water governance by refocusing strategic priorities away from traditional concerns of environmental governance. 
+In the process of transposing the EU NIS Directive into the sectoral and national context, NIS requires interpretation by diverse expert communities. We show how translating the regulatory scope to the sectoral landscape involves prioritising some water governance goals over others. As expert communities converge in their collaboration practices, their priorities align or stand in tension with public interests. We argue that cyber security regulations have potential to reconfigure water governance by refocusing strategic priorities away from traditional concerns of environmental governance. 
 
-![rego2](assets/gallery/rego2.png){:style="display:block; margin-left:auto; margin-right:auto"}{: width="350" }{: height="350" }
+![rego2](assets/gallery/rego2.png){:style="display:block; margin-left:auto; margin-right:auto"}{: width="600" }{: height="600" }
 
 
-![rego3](assets/gallery/rego3.png){:style="display:block; margin-left:auto; margin-right:auto"}{: width="350" }{: height="350" }
+![rego3](assets/gallery/rego3.png){:style="display:block; margin-left:auto; margin-right:auto"}{: width="600" }{: height="600" }
 
-We inquired into five instances of collaboration in the water industry cyber security landscape. We analysed whether they help or hinder with the alignment of NIS and public interest. Finally, we suggested ways to maintain diverse collaborations across engineering, computing, and water expertise that Network and Information Systems implementation remains aligned with the goals of water governance.
+We inquired into five instances of collaboration in the water industry cyber security landscape. We analysed whether they help or hinder with the alignment of NIS and public interest. 
 
-![rego4](assets/gallery/rego4.png){:style="display:block; margin-left:auto; margin-right:auto"}{: width="350" }{: height="350" }
+![rego4](assets/gallery/rego4.png){:style="display:block; margin-left:auto; margin-right:auto"}{: width="600" }{: height="600" }
+
+* In ["Industry Responses to the European Directive on Security of Network and Information Systems (NIS): Understanding policy implementation practices across critical infrastructures"](https://www.usenix.org/conference/soups2020/presentation/michalec), we found that the emerging field of Operational Technology Security is yet to formulate norms, standards and career trajectories.
+* We identified a number of security tropes. We define them as widely held beliefs which require a further level of detail before they can be successfully applied to the OT context. Due to the combination of rhetorical qualities like generalisation, ambiguity and strong normativity, they lead to the creation of advice which can be easily marketed at mass scale. As they’re quite vague,
+they can appeal to professionals from diverse backgrounds.
+* The tropes idetified are: 1) Separation means security; 2) IIoT is inevitable; 3) Security solutions are the same across the sectors; 4) Raising awareness leads to security.
+* We presented a classification of cyber security practices mapping the diversity of policy interpretations: 1) Compliance; 2) Workaround; 3) Going above and beyond policy remit; 4) Negotiation
 
 **Policy Recommendations:**
+
+* Finally, we suggested ways to maintain diverse collaborations across engineering, computing, and water expertise that Network and Information Systems implementation remains aligned with the goals of water governance....
+* 
 
 **Project team:** Prof. Awais Rashid (PI), Dr Dirk van der Linden (Co-I), Dr Sveta Milyaeva (Co-I), Dr Ola Michalec (PDRA). We were funded by the Research Institute in Trustworthy Inter-connected Cyber-Physical Systems (RITICS).
 
