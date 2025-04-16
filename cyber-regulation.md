@@ -18,32 +18,33 @@ The project developed an empirically-grounded understanding of the role and impa
   
 In the process of transposing the EU NIS Directive into the sectoral and national context, NIS requires interpretation by diverse expert communities. We show how translating the regulatory scope to the sectoral landscape involves prioritising some water governance goals over others. As expert communities converge in their collaboration practices, their priorities align or stand in tension with public interests. We argue that cyber security regulations have potential to reconfigure water governance by refocusing strategic priorities away from traditional concerns of environmental governance. 
 
-![rego2](assets/gallery/rego2.png){:style="display:block; margin-left:auto; margin-right:auto"}{: width="600" }{: height="600" }
+![rego2](assets/gallery/rego2.png){:style="display:block; margin-left:auto; margin-right:auto"}{: width="600" }{: height="500" }
 
 
-![rego3](assets/gallery/rego3.png){:style="display:block; margin-left:auto; margin-right:auto"}{: width="600" }{: height="600" }
+![rego3](assets/gallery/rego3.png){:style="display:block; margin-left:auto; margin-right:auto"}{: width="600" }{: height="400" }
 
 We inquired into five instances of collaboration in the water industry cyber security landscape. We analysed whether they help or hinder with the alignment of NIS and public interest. 
 
 ![rego4](assets/gallery/rego4.png){:style="display:block; margin-left:auto; margin-right:auto"}{: width="600" }{: height="600" }
 
 * In ["Industry Responses to the European Directive on Security of Network and Information Systems (NIS): Understanding policy implementation practices across critical infrastructures"](https://www.usenix.org/conference/soups2020/presentation/michalec), we found that the emerging field of Operational Technology Security is yet to formulate its norms, standards and career trajectories.
-* We identified a number of security tropes. We define them as widely held beliefs which require a further level of detail before they can be successfully applied to the OT context. Due to the combination of rhetorical qualities like generalisation, ambiguity and strong normativity, they lead to the creation of advice which can be easily marketed at mass scale. As they’re quite vague,
+
+We identified a number of security tropes. We define them as widely held beliefs which require a further level of detail before they can be successfully applied to the OT context. Due to the combination of rhetorical qualities like generalisation, ambiguity and strong normativity, they lead to the creation of advice which can be easily marketed at mass scale. As they’re quite vague,
 they can appeal to professionals from diverse backgrounds.
 
-* The tropes identified are: 1) Separation means security; 2) IIoT is inevitable; 3) Security solutions are the same across the sectors; 4) Raising awareness leads to security.
+The tropes identified are: 1) Separation means security; 2) IIoT is inevitable; 3) Security solutions are the same across the sectors; 4) Raising awareness leads to security.
 
-![Soups1](assets/gallery/Soups1.png){:style="display:block; margin-left:auto; margin-right:auto"}{: width="600" }{: height="600" }
+![Soups1](assets/gallery/Soups1.png){:style="display:block; margin-left:auto; margin-right:auto"}{: width="300" }{: height="300" }
 
-![Soups2](assets/gallery/Soups2.png){:style="display:block; margin-left:auto; margin-right:auto"}{: width="600" }{: height="600" }
+![Soups2](assets/gallery/Soups2.png){:style="display:block; margin-left:auto; margin-right:auto"}{: width="300" }{: height="300" }
 
-![Soups3](assets/gallery/Soups3.png){:style="display:block; margin-left:auto; margin-right:auto"}{: width="600" }{: height="600" }
+![Soups3](assets/gallery/Soups3.png){:style="display:block; margin-left:auto; margin-right:auto"}{: width="300" }{: height="300" }
 
-![Soups4](assets/gallery/Soups4.png){:style="display:block; margin-left:auto; margin-right:auto"}{: width="600" }{: height="600" }
+![Soups4](assets/gallery/Soups4.png){:style="display:block; margin-left:auto; margin-right:auto"}{: width="300" }{: height="300" }
   
-* We presented a classification of cyber security practices mapping the diversity of policy interpretations: 1) Compliance; 2) Workaround; 3) Going above and beyond policy remit; 4) Negotiation. This classification questions a common assumption that infrastructure operators merely comply with regulations. In fact, they take a very active role in shaping NIS.
+We presented a classification of cyber security practices mapping the diversity of policy interpretations: 1) Compliance; 2) Workaround; 3) Going above and beyond policy remit; 4) Negotiation. This classification questions a common assumption that infrastructure operators merely comply with regulations. In fact, they take a very active role in shaping NIS.
 
-![Soups5](assets/gallery/Soups5.png){:style="display:block; margin-left:auto; margin-right:auto"}{: width="600" }{: height="600" }
+![Soups5](assets/gallery/Soups5.png){:style="display:block; margin-left:auto; margin-right:auto"}{: width="500" }{: height="300" }
 
 **Policy Recommendations:**
 * Recommendation 1 (for CNIs operators deciding on improvement plans): Know about and protect yourselves against threats which circumvent air-gapped systems. Check whether alternatives to air-gapping comply with safety standards.
@@ -86,9 +87,9 @@ Since 2018, the European Union member states and the UK have been working on imp
 This project contributed towards build a community of both cyber security experts and business leaders to enable translation between security and operational concerns and, as a result, make better decisions about cyber security in its broader organisational context. 
 
 **Main Findings:**
-* The NIS Regulations introduced the document called Cyber Assessment Framework (CAF). It is designed as a guidance outlining desired outcomes of good cyber security practices that facilitate independent risk management among the Operators of Essential Services.
+The NIS Regulations introduced the document called Cyber Assessment Framework (CAF). It is designed as a guidance outlining desired outcomes of good cyber security practices that facilitate independent risk management among the Operators of Essential Services.
 
-* However, our research found a paradox regarding the use of CAF. Despite being designed to guide independent risk assessment and discourage ‘box ticking’, in some cases, CAF has been used as a prescriptive document, outlining exactly what needs to be achieved for compliance. This was justified with poor understanding of industrial assets and associated security risks across the Operators. We argue that outcome-based regulations are more likely to be successful once the stakeholders identify and apply a set of baseline security improvements. Such improvements ought to be benchmarked across the sector, linked to the traditional requirement of safety, and culturally accepted by Operational Technology engineers. (image here)
+However, our research found a paradox regarding the use of CAF. Despite being designed to guide independent risk assessment and discourage ‘box ticking’, in some cases, CAF has been used as a prescriptive document, outlining exactly what needs to be achieved for compliance. This was justified with poor understanding of industrial assets and associated security risks across the Operators. We argue that outcome-based regulations are more likely to be successful once the stakeholders identify and apply a set of baseline security improvements. Such improvements ought to be benchmarked across the sector, linked to the traditional requirement of safety, and culturally accepted by Operational Technology engineers. (image here)
 
 
 **Policy Recommendations for Competent Authorities:**
