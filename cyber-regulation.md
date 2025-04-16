@@ -10,7 +10,8 @@ The project developed an empirically-grounded understanding of the role and impa
 
 **Main Findings:**
 * In ["When the future meets the past: can safety and cyber security coexist in modern critical infrastructures?"]((https://doi.org/10.1177/20539517221108369)), we argue that the implementation of Network and Information Systems Security Directive is the first step in the integration of safety and security through novel risk management practices. Therefore, it is the move towards legitimising the modernisation of critical infrastructures. But we also show that security risk management practices cannot be directly transplanted from the safety realm, as cyber security is grounded in anticipation of the future adversarial behaviours rather than the history of equipment failure rates.
-* We present our argument in four parts. First, by establishing that safety-security integration was key for engineers accepting the modernisation agenda. Second, by outlining collective risk management practices that enabled diverse practitioners to collaborate (risk thinking hivemind, diversity in expertise, trust in collaborations). Third, by highlighting how practitioners borrowed elements from safety culture and incorporated it to security (harmonised threat and incident reporting, maintenance contracts). Fourth, by cautioning that epistemic and material differences between the old world of legacy technologies and novel big data tools pose limits to the future of critical infrastructures modernisation (namely, engineers trained to reason in prescriptive terms, secrecy in cyber, differing logics of risk assessment between safety and security professions).
+
+We present our argument in four parts. First, by establishing that safety-security integration was key for engineers accepting the modernisation agenda. Second, by outlining collective risk management practices that enabled diverse practitioners to collaborate (risk thinking hivemind, diversity in expertise, trust in collaborations). Third, by highlighting how practitioners borrowed elements from safety culture and incorporated it to security (harmonised threat and incident reporting, maintenance contracts). Fourth, by cautioning that epistemic and material differences between the old world of legacy technologies and novel big data tools pose limits to the future of critical infrastructures modernisation (namely, engineers trained to reason in prescriptive terms, secrecy in cyber, differing logics of risk assessment between safety and security professions).
 
 * In ["Reconfiguring governance: How cyber security regulations are reconfiguring water governance"](https://doi.org/10.1111/rego.12423), we argue that the Network and Information Systems Regulations acts as a 'boundary object' that gathers diverse communities of practice, enabling collaboration without the need to establish common goals.
 
@@ -34,17 +35,17 @@ they can appeal to professionals from diverse backgrounds.
 
 The tropes identified are: 1) Separation means security; 2) IIoT is inevitable; 3) Security solutions are the same across the sectors; 4) Raising awareness leads to security.
 
-![Soups1](assets/gallery/Soups1.png){:style="display:block; margin-left:auto; margin-right:auto"}{: width="300" }{: height="300" }
+![Soups1](assets/gallery/Soups1.png){:style="display:block; margin-left:auto; margin-right:auto"}{: width="500" }{: height="500" }
 
-![Soups2](assets/gallery/Soups2.png){:style="display:block; margin-left:auto; margin-right:auto"}{: width="300" }{: height="300" }
+![Soups2](assets/gallery/Soups2.png){:style="display:block; margin-left:auto; margin-right:auto"}{: width="500" }{: height="500" }
 
-![Soups3](assets/gallery/Soups3.png){:style="display:block; margin-left:auto; margin-right:auto"}{: width="300" }{: height="300" }
+![Soups3](assets/gallery/Soups3.png){:style="display:block; margin-left:auto; margin-right:auto"}{: width="500" }{: height="500" }
 
-![Soups4](assets/gallery/Soups4.png){:style="display:block; margin-left:auto; margin-right:auto"}{: width="300" }{: height="300" }
+![Soups4](assets/gallery/Soups4.png){:style="display:block; margin-left:auto; margin-right:auto"}{: width="500" }{: height="500" }
   
 We presented a classification of cyber security practices mapping the diversity of policy interpretations: 1) Compliance; 2) Workaround; 3) Going above and beyond policy remit; 4) Negotiation. This classification questions a common assumption that infrastructure operators merely comply with regulations. In fact, they take a very active role in shaping NIS.
 
-![Soups5](assets/gallery/Soups5.png){:style="display:block; margin-left:auto; margin-right:auto"}{: width="500" }{: height="300" }
+![Soups5](assets/gallery/Soups5.png){:style="display:block; margin-left:auto; margin-right:auto"}{: width="400" }{: height="300" }
 
 **Policy Recommendations:**
 * Recommendation 1 (for CNIs operators deciding on improvement plans): Know about and protect yourselves against threats which circumvent air-gapped systems. Check whether alternatives to air-gapping comply with safety standards.
@@ -67,7 +68,9 @@ We presented a classification of cyber security practices mapping the diversity 
 
 
 
-**Project team:** Prof. Awais Rashid (PI), Dr Dirk van der Linden (Co-I), Dr Sveta Milyaeva (Co-I), Dr Ola Michalec (PDRA). We were funded by the Research Institute in Trustworthy Inter-connected Cyber-Physical Systems (RITICS).
+**Project team:** 
+
+Prof. Awais Rashid (PI), Dr Dirk van der Linden (Co-I), Dr Sveta Milyaeva (Co-I), Dr Ola Michalec (PDRA). We were funded by the Research Institute in Trustworthy Inter-connected Cyber-Physical Systems (RITICS).
 
 **Outputs:**
 
@@ -87,6 +90,7 @@ Since 2018, the European Union member states and the UK have been working on imp
 This project contributed towards building a community of both cyber security experts and business leaders to enable translation between security and operational concerns and, as a result, make better decisions about cyber security in its broader organisational context. 
 
 **Main Findings:**
+
 The NIS Regulations introduced the document called Cyber Assessment Framework (CAF). It is designed as a guidance outlining desired outcomes of good cyber security practices that facilitate independent risk management among the Operators of Essential Services.
 
 However, our [report](https://ritics.org/wp-content/uploads/2023/06/Whats-next-for-NIS-RITICS-report-final-310123.pdf) found a paradox regarding the use of CAF. Despite being designed to guide independent risk assessment and discourage ‘box ticking’, in some cases, CAF has been used as a prescriptive document, outlining exactly what needs to be achieved for compliance. This was justified with poor understanding of industrial assets and associated security risks across the Operators. We argue that outcome-based regulations are more likely to be successful once the stakeholders identify and apply a set of baseline security improvements. Such improvements ought to be benchmarked across the sector, linked to the traditional requirement of safety, and culturally accepted by Operational Technology engineers. (image here)
