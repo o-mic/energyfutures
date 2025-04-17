@@ -18,7 +18,7 @@ The project developed an empirically-grounded understanding of the role and impa
 <br>
 <div style="text-align: center; position: relative; margin: 2em 0;">
   <hr style="border: none; border-top: 1px solid #ccc; margin: 0;">
-  <span style="position: absolute; top: -0.7em; left: 50%; transform: translateX(-50%); background: white; padding: 0 0.5em;">***</span>
+  <span style="position: absolute; top: -0.7em; left: 50%; transform: translateX(-50%); background: #f6f6f6; padding: 0 0.5em;">***</span>
 </div>
 
 <p>In <a href="https://doi.org/10.1111/rego.12423">"Reconfiguring governance: How cyber security regulations are reconfiguring water governance"</a>, we argue that the Network and Information Systems Regulations acts as a 'boundary object' that gathers diverse communities of practice, enabling collaboration without the need to establish common goals.</p>
@@ -31,7 +31,7 @@ The project developed an empirically-grounded understanding of the role and impa
 <br>
 <div style="text-align: center; position: relative; margin: 2em 0;">
   <hr style="border: none; border-top: 1px solid #ccc; margin: 0;">
-  <span style="position: absolute; top: -0.7em; left: 50%; transform: translateX(-50%); background: white; padding: 0 0.5em;">***</span>
+  <span style="position: absolute; top: -0.7em; left: 50%; transform: translateX(-50%); background: #f6f6f6; padding: 0 0.5em;">***</span>
 </div>
 <p>In <a href="https://www.usenix.org/conference/soups2020/presentation/michalec">"Industry Responses to the European Directive on Security of Network and Information Systems (NIS): Understanding policy implementation practices across critical infrastructures"</a>, we found that the emerging field of Operational Technology Security is yet to formulate its norms, standards and career trajectories.</p>
 <p>We identified a number of security tropes. We define them as widely held beliefs which require a further level of detail before they can be successfully applied to the OT context. Due to the combination of rhetorical qualities like generalisation, ambiguity and strong normativity, they lead to the creation of advice which can be easily marketed at mass scale. As they’re quite vague, they can appeal to professionals from diverse backgrounds.</p>
