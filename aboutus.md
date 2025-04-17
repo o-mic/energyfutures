@@ -45,6 +45,7 @@ My research interests revolve around understanding how experts from diverse fiel
     text-align: center;
     padding: 8px;
     font-size: 12px;
+    z-index: 10;
   ">
     this is me (Human) Interfacing a Machine at Bristol Cyber Security Group lab
   </div>
