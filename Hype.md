@@ -14,7 +14,7 @@ Decarbonising energy systems by 2050 presents multiple dilemmas between national
 </ul>
 
 <details>
-  <summary>Read more</summary>
+  <summary><strong>[Read more]</strong></summary>
   <p>
   <p><strong>Main findings:</strong></p>
 
@@ -30,7 +30,7 @@ Join us to the inaugural [conference](https://hypestudies.org/conference) at the
 
 
   <details>
-  <summary>Read more</summary>
+   <summary><strong>[Read more]</strong></summary>
   <p>
   <p><strong>Conference:</strong></p>
 
