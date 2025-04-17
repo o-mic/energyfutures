@@ -25,7 +25,7 @@ In <a href="https://doi.org/10.1016/j.erss.2023.103327">"Who will keep the light
 
 
 
-In <a href="https://doi.org/10.1002/geo2.156">"Electric feels: The role of visual methods in energy futuring"</a> we.....
+In <a href="https://doi.org/10.1002/geo2.156">"Electric feels: The role of visual methods in energy futuring"</a>  we told a story of our unique art-research collaboration, shared our illustrations, event summaries and reflected on the power of visual methods to galvanise a new type of public conversation related to emotions, energy and digital innovation. By bringing together the literature from design research, STS and human geography, we intended to lay a path towards further interdisciplinary conversations. This commentary paper made a case for collective energy ‘futuring’—embracing the role of affect, speculation and imagination, while moving away from the deficit model of public engagement in science.
 
 
 <!-- Insert images and x-links here -->
