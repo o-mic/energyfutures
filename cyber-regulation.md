@@ -36,10 +36,10 @@ The project developed an empirically-grounded understanding of the role and impa
 <p>In <a href="https://www.usenix.org/conference/soups2020/presentation/michalec">"Industry Responses to the European Directive on Security of Network and Information Systems (NIS): Understanding policy implementation practices across critical infrastructures"</a>, we found that the emerging field of Operational Technology Security is yet to formulate its norms, standards and career trajectories.</p>
 <p>We identified a number of security tropes. We define them as widely held beliefs which require a further level of detail before they can be successfully applied to the OT context. Due to the combination of rhetorical qualities like generalisation, ambiguity and strong normativity, they lead to the creation of advice which can be easily marketed at mass scale. As they’re quite vague, they can appeal to professionals from diverse backgrounds.</p>
 <p>The tropes identified are: 1) Separation means security; 2) IIoT is inevitable; 3) Security solutions are the same across the sectors; 4) Raising awareness leads to security.</p>
-<p><img src="/assets/gallery/S2.png" alt="Soups1" style="display:block; margin-left:auto; margin-right:auto; border: 2px solid black;" width="400" /></p>
-<p><img src="/assets/gallery/S3.png" alt="Soups2" style="display:block; margin-left:auto; margin-right:auto; border: 2px solid black;" width="400" /></p>
-<p><img src="/assets/gallery/S4.png" alt="Soups3" style="display:block; margin-left:auto; margin-right:auto; border: 2px solid black;" width="400" /></p>
-<p><img src="/assets/gallery/S5.png" alt="Soups4" style="display:block; margin-left:auto; margin-right:auto; border: 2px solid black;" width="400" /></p>
+<p><img src="/assets/gallery/S2.png" alt="Soups1" style="display:block; margin-left:auto; margin-right:auto; border: 1px solid black;" width="400" /></p>
+<p><img src="/assets/gallery/S3.png" alt="Soups2" style="display:block; margin-left:auto; margin-right:auto; border: 1px solid black;" width="400" /></p>
+<p><img src="/assets/gallery/S4.png" alt="Soups3" style="display:block; margin-left:auto; margin-right:auto; border: 1px solid black;" width="400" /></p>
+<p><img src="/assets/gallery/S5.png" alt="Soups4" style="display:block; margin-left:auto; margin-right:auto; border: 1px solid black;" width="400" /></p>
 
 <p>We presented a classification of cyber security practices mapping the diversity of policy interpretations: 1) Compliance; 2) Workaround; 3) Going above and beyond policy remit; 4) Negotiation. This classification questions a common assumption that infrastructure operators merely comply with regulations. In fact, they take a very active role in shaping NIS.</p>
 <p><img src="/assets/gallery/S6.png" alt="Soups6" style="display:block; margin-left:auto; margin-right:auto" /></p>
