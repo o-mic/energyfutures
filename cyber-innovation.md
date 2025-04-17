@@ -29,7 +29,7 @@ In <a href="https://doi.org/10.1002/geo2.156">"Electric feels: The role of visua
 
 
 <!-- Insert images and x-links here -->
-<p><img src="/assets/gallery/ef15.jpg" alt="Image description" style="display:block; margin-left:auto; margin-right:auto" width="400" height="auto" /></p>
+<p><img src="/assets/gallery/ef15.jpg" alt="Image description" style="display:block; margin-left:auto; margin-right:auto" width="auto" height="auto" /></p>
 <br>
 <p><img src="/assets/gallery/EF2.jpg" alt="Imageinaries" style="display:block; margin-left:auto; margin-right:auto" width="auto" height="auto" /></p>
 <br>
