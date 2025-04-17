@@ -32,13 +32,13 @@ My research interests revolve around understanding how experts from diverse fiel
 
 <div class="gallery">
   <div class="gallery-item">
-    <img src="{{ 'assets/img/HMI1.jpg' | relative_url }}" alt="Image 1">
+    <img src="{{ 'assets/img/ola-headshot.jpg' | relative_url }}" alt="Image 1">
     <div class="caption">this is me (Human) Interfacing a Machine at Bristol Cyber Security Group lab</div>
   </div>
 </div>
 
 <div class="image-hover-container" style="width: 350px; margin: 0 auto; position: relative;">
-  <img src="assets/img/HMI1.jpg" alt="my headshot" style="width: 100%; display: block;">
+  <img src="assets/img/ola-headshot.jpg" alt="my headshot" style="width: 100%; display: block;">
   <div class="hover-caption" style="
     display: none;
     position: absolute;
