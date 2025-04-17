@@ -30,13 +30,6 @@ My research interests revolve around understanding how experts from diverse fiel
 
 * [BlueSky](https://bsky.app/profile/olamichalec.bsky.social)
 
-<div class="gallery">
-  <div class="gallery-item">
-    <img src="{{ 'assets/img/ola-headshot.jpg' | relative_url }}" alt="Image 1">
-    <div class="caption">this is me (Human) Interfacing a Machine at Bristol Cyber Security Group lab</div>
-  </div>
-</div>
-
 
 <br>
 
