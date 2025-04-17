@@ -11,14 +11,14 @@ title: About us
 
 
 <br />
-This website is designed and maintained by Dr Ola Michalec. Ola is a Lecturer in Digital Futures based at the University of Bristol Business School ([Bristol Digital Futures Institute](https://www.bristol.ac.uk/bristol-digital-futures-institute/)).
+Hello world! My name is Ola Michalec and I have built this website! I'm a Lecturer in Digital Futures and I'm based at the University of Bristol Business School and ([Bristol Digital Futures Institute](https://www.bristol.ac.uk/bristol-digital-futures-institute/)).
 
-Ola’s research interests revolve around understanding how experts from diverse fields collaborate on digital innovations. Over the past decade, she has applied this question to the context of critical infrastructures, cyber security, and energy industry. Ola contributes to debates in Science and Technology Studies and plays an active role in communities such as [Research Institute for Sociotechnical Cyber Security](https://riscs.org.uk/).
+My research interests revolve around understanding how experts from diverse fields collaborate on digital innovations. Over the past decade, I have applied this question to the context of critical infrastructures, cyber security, and energy industry. I contribute to debates in Science and Technology Studies and play an active role in communities engaging researchers with practitioners such as [Research Institute for Sociotechnical Cyber Security](https://riscs.org.uk/). I'm also a co-founder of [Hype Studies Group)(https://hypestudies.org/), a new initiative aiming to understand how trends, innovation narratives and buzzwords influence technology and science.
 
 
 <br />
 <br />
-**Check out Ola's web presence below:**
+**Check out my web presence below:**
 
 [Google Scholar](https://scholar.google.com/citations?user=abDmargAAAAJ&hl=en&oi=ao)
 
@@ -37,7 +37,7 @@ Ola’s research interests revolve around understanding how experts from diverse
 <br />
 <br />
 ### Collaborators
-We would like to credit the following people who contributed to various initiatives along the way:
+I would like to credit the following people who contributed to various initiatives along the way:
 * co-authors: Joe Bourne, Awais Rashid, Andrés Domínguez, Partha Das Choudhury, Marvin Ramokapane, Emily Godwin, Emily Johnstone, Alicia Cork, Dirk van der Linden, Sveta Milyaeva, Ben Shreeve, Andrew Dwyer, Colin Topping, Nina H Di Cara, Natalie Zelenka, Huw Day, Euan DS Bennet, Vanessa Hanschke, Valerio Maggio, Charles Radclyffe, Roman Shkunov, Emma Tonkin, Zoë Turner, Kamilla Wells, Cian O’Donovan, Joshua R Moon, Enda Hayes, Jim Longhurst, Dave Tudgey
 * artists: Jonny Heath, Ian Keavney (crash stop), Jordan Collver, Eve Pyra, Mary Hart, Liz Ormian, Aude Nasr, Wen Li, Oliver Dean, Disect, alex wifi
 * critical friends: Sam Young, Laurence Fahrni, Steve Cordle, Louise Evans, Andreu Belsunces Gonçalves, Wenzel Mehnert, Vassilis Galanos, Dani Shanley, Jascha Bareis, Pierre Depaz, Isa Luiten, Peter Winter, Andrés Domínguez, Lucía Argüelles Ramos, Zora Kovacic, Carsten Horn, Ruzanna Chitchyan
@@ -46,7 +46,7 @@ We would like to credit the following people who contributed to various initiati
 <br />
 <br />
 ### Acknowledgements
-We are grateful to our funders for their ongoing support, in particular:
+I am grateful to our funders for their ongoing support, in particular:
 * Bristol Digital Futures Institute and Bristol Cyber Security Group for administrative support and mentorship,
 * Innovation Launchpad Network+ (Researcher-in-Residence Scheme in partnership with Energy Systems Catapult) for funding research and policy engagement
 * Research England (C-DICE: The Centre for Postdoctoral Development in Cities, Infrastructure and Energy) for research, conference and public engagement funding.
@@ -68,4 +68,4 @@ The images accompanying the website were created by [Ian Keavney](https://crash-
 <br />
 <br />
 ### Design
-The website has been built by me with help from the Beautiful Jekyll template. Tips and feedback welcome - so far, I've been really enjoying taking baby steps in web design! - Ola
+The website has been built by me with help from the Beautiful Jekyll template. Tips and feedback welcome - so far, I've been really enjoying taking baby steps in web design! 
