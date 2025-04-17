@@ -36,13 +36,13 @@ they can appeal to professionals from diverse backgrounds.
 
 The tropes identified are: 1) Separation means security; 2) IIoT is inevitable; 3) Security solutions are the same across the sectors; 4) Raising awareness leads to security.
 
-![Soups1](assets/gallery/Soups1.png){:style="display:block; margin-left:auto; margin-right:auto"}{: width="400" }{: height="400" }
+![Soups1](assets/gallery/Soups1.png){:style="display:block; margin-left:auto; margin-right:auto"}{: width="400" }
 
-![Soups2](assets/gallery/Soups2.png){:style="display:block; margin-left:auto; margin-right:auto"}{: width="400" }{: height="400" }
+![Soups2](assets/gallery/Soups2.png){:style="display:block; margin-left:auto; margin-right:auto"}{: width="400" }
 
-![Soups3](assets/gallery/Soups3.png){:style="display:block; margin-left:auto; margin-right:auto"}{: width="400" }{: height="400" }
+![Soups3](assets/gallery/Soups3.png){:style="display:block; margin-left:auto; margin-right:auto"}{: width="400" }
 
-![Soups4](assets/gallery/Soups4.png){:style="display:block; margin-left:auto; margin-right:auto"}{: width="400" }{: height="400" }
+![Soups4](assets/gallery/Soups4.png){:style="display:block; margin-left:auto; margin-right:auto"}{: width="400" }
   
 We presented a classification of cyber security practices mapping the diversity of policy interpretations: 1) Compliance; 2) Workaround; 3) Going above and beyond policy remit; 4) Negotiation. This classification questions a common assumption that infrastructure operators merely comply with regulations. In fact, they take a very active role in shaping NIS.
 
