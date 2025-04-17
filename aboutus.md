@@ -31,8 +31,30 @@ My research interests revolve around understanding how experts from diverse fiel
 * [BlueSky](https://bsky.app/profile/olamichalec.bsky.social)
 
 
-![my headshot](assets/img/2019 CDT Cyber Oct machines small-6.jpg){: width="350" }{:style="display:block; margin-left:auto; margin-right:auto"}
 
+<div class="image-hover-container" style="width: 350px; margin: 0 auto; position: relative;">
+  <img src="assets/img/2019-CDT-Cyber-Oct-machines-small-6.jpg" alt="my headshot" style="width: 100%; display: block;">
+  <div class="hover-caption" style="
+    display: none;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(0, 0, 0, 0.7);
+    color: white;
+    text-align: center;
+    padding: 8px;
+    font-size: 12px;
+  ">
+    this is me (Human) Interfacing a Machine at Bristol Cyber Security Group lab
+  </div>
+</div>
+
+<style>
+.image-hover-container:hover .hover-caption {
+  display: block;
+}
+</style>
 
 <br />
 <br />
