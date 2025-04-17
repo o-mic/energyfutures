@@ -9,7 +9,7 @@ title: Regulations
 The project developed an empirically-grounded understanding of the role and impact of organisational cybersecurity cultures and practices across essential infrastructure sectors on the UK’s implementation of the Network and Information Systems (NIS) Regulations. We uncovered organisational and sectoral differences, for instance, in the ways which people work, what technologies (software/hardware) are relied upon, what additional compliance requirements exist. This yielded key insights about the NIS objectives that are already achieved, the ones difﬁcult to effectively realise and potential blind spots arising from organisational cultures and sectoral practices. 
 
 <details>
-  <summary>Read more</summary>
+  <summary><strong>[Read more]</strong></summary>
   <p>
 
 <p><strong>Main Findings:</strong></p>
@@ -69,7 +69,7 @@ Since 2018, the European Union member states and the UK have been working on imp
 This project contributed towards building a community of both cyber security experts and business leaders to enable translation between security and operational concerns and, as a result, make better decisions about cyber security in its broader organisational context. 
 
 <details>
-  <summary>Read more</summary>
+   <summary><strong>[Read more]</strong></summary>
   <p>
 <p><strong>Main Findings:</strong></p>
 <p>In the report <a href="https://ritics.org/wp-content/uploads/2023/06/Whats-next-for-NIS-RITICS-report-final-310123.pdf">"What’s next for the NIS Regulations? Findings from the RITICS Fellowship"</a>, we investigate the Cyber Assessment Framework (CAF) introduced in the NIS Regulations. It is designed as a guidance outlining desired outcomes of good cyber security practices that facilitate independent risk management among the Operators of Essential Services. However, my project found a paradox regarding the use of CAF. Despite being designed to guide independent risk assessment and discourage ‘box ticking’, in some cases, CAF has been used as a prescriptive document, outlining exactly what needs to be achieved for compliance. This was justified with poor understanding of industrial assets and associated security risks across the Operators. We argue that outcome-based regulations are more likely to be successful once the stakeholders identify and apply a set of baseline security improvements. Such improvements ought to be benchmarked across the sector, linked to the traditional requirement of safety, and culturally accepted by Operational Technology engineers.</p>
