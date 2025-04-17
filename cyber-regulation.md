@@ -11,7 +11,9 @@ The project developed an empirically-grounded understanding of the role and impa
 <details>
   <summary>Read more</summary>
   <p>
-    **Main Findings:**
+
+  <br>
+  **Main Findings:**
 
 In ["When the future meets the past: can safety and cyber security coexist in modern critical infrastructures?"]((https://doi.org/10.1177/20539517221108369)), we argue that the implementation of Network and Information Systems Security Directive is the first step in the integration of safety and security through novel risk management practices. Therefore, it is the move towards legitimising the modernisation of critical infrastructures. But we also show that security risk management practices cannot be directly transplanted from the safety realm, as cyber security is grounded in anticipation of the future adversarial behaviours rather than the history of equipment failure rates.
 
