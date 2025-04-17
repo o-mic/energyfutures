@@ -44,6 +44,10 @@ The project developed an empirically-grounded understanding of the role and impa
 <p>We presented a classification of cyber security practices mapping the diversity of policy interpretations: 1) Compliance; 2) Workaround; 3) Going above and beyond policy remit; 4) Negotiation. This classification questions a common assumption that infrastructure operators merely comply with regulations. In fact, they take a very active role in shaping NIS.</p>
 <p><img src="/assets/gallery/S6.png" alt="Soups6" style="display:block; margin-left:auto; margin-right:auto" /></p>
 <br>
+<div style="text-align: center; position: relative; margin: 2em 0;">
+  <hr style="border: none; border-top: 1px solid #ccc; margin: 0;">
+  <span style="position: absolute; top: -0.7em; left: 50%; transform: translateX(-50%); background: #f6f6f6; padding: 0 0.5em;">***</span>
+</div>
 <p><strong>Policy Recommendations:</strong></p>
 <ul>
 <li><strong>Recommendation 1</strong> (for CNIs operators deciding on improvement plans): Know about and protect yourselves against threats which circumvent air-gapped systems. Check whether alternatives to air-gapping comply with safety standards.</li>
@@ -57,9 +61,17 @@ The project developed an empirically-grounded understanding of the role and impa
 <li><strong>Recommendation 9:</strong> Following the translation of high-level NIS Directive into sector-specific assessments, regulators should reflect on residual spaces left unaccounted for by the emerging standard.</li>
 </ul>
 <br>
+<div style="text-align: center; position: relative; margin: 2em 0;">
+  <hr style="border: none; border-top: 1px solid #ccc; margin: 0;">
+  <span style="position: absolute; top: -0.7em; left: 50%; transform: translateX(-50%); background: #f6f6f6; padding: 0 0.5em;">***</span>
+</div>
 <p><strong>Project team:</strong></p>
 <p>Prof. Awais Rashid (PI), Dr Dirk van der Linden (Co-I), Dr Sveta Milyaeva (Co-I), Dr Ola Michalec (PDRA). We were funded by the Research Institute in Trustworthy Inter-connected Cyber-Physical Systems (RITICS).</p>
 <br>
+<div style="text-align: center; position: relative; margin: 2em 0;">
+  <hr style="border: none; border-top: 1px solid #ccc; margin: 0;">
+  <span style="position: absolute; top: -0.7em; left: 50%; transform: translateX(-50%); background: #f6f6f6; padding: 0 0.5em;">***</span>
+</div>
 <p><strong>Outputs:</strong></p>
 <ul>
 <li><strong>Journal article:</strong> "When the future meets the past: can safety and cyber security coexist in modern critical infrastructures?". 2022. By Michalec, O., Milyaeva, S. and Rashid, A. In: Big Data and Society. <a href="https://doi.org/10.1177/20539517221108369">Full text</a></li>
@@ -94,7 +106,11 @@ This project contributed towards building a community of both cyber security exp
 <p>My project found that the implementation of NIS is the first step to integrate safety and security through novel risk management practices observed in our fieldwork, such as broadening of threat and incident reporting scope to include security incidents and safety accidents. Successful implementation of NIS involves a variety of collaborations, e.g., across managers and technical professionals, across the operators, and across safety and security experts, as shown on the figure below. However, we also show that security risk management practices cannot be directly transplanted from the safety realm. This is because cyber security is grounded in anticipation of the future uncertain adversarial behaviours, while safety risk management relies on a long history of data on equipment failure rates. As such, we call for exercising care while transplanting concepts from ‘safety culture’ into the realm of cyber security. Going forward, we recommend that NIS stakeholders encourage collaborative practices to implement NIS and advance security at a societal level, rather than working at organisational level only.</p>
 
 <p><img src="/assets/gallery/Ritics1.png" alt="Ritics1" style="display:block; margin-left:auto; margin-right:auto" width="500" height="600" /></p>
-
+<br>
+<div style="text-align: center; position: relative; margin: 2em 0;">
+  <hr style="border: none; border-top: 1px solid #ccc; margin: 0;">
+  <span style="position: absolute; top: -0.7em; left: 50%; transform: translateX(-50%); background: #f6f6f6; padding: 0 0.5em;">***</span>
+</div>
 <p>In the guidance <a href="https://ritics.org/wp-content/uploads/2023/10/ICS-COI-Resolving-Anti-Patterns.pdf">Resolving anti-patterns</a>, written collaboratively with the Industrial Control Systems Community of Interest, we identified five 'anti-patterns' (or poor practices), common in OT environments. We unpicked the thinking behind those anti-patterns, explains why they are examples of poor practice and proposed better alternatives. The anti-patterns analysed in the report are: 1) Flat, unsegmented/unsegregated architectures; 2) Uncontrolled access to ICS/OT networks; 3) Lack of authentication and data security; 4) Inaccurate asset inventory; 5) Unchecked backups.</p>
 
 <p><strong>Policy Recommendations for Competent Authorities:</strong></p>
@@ -105,7 +121,11 @@ This project contributed towards building a community of both cyber security exp
   <li><strong>Recommendation 4:</strong> Be cognizant of the cultural differences between safety and security which limit the potential for harmonisation, i.e. prescriptive thinking of safety engineers or secrecy of security practitioners.</li>
   <li><strong>Recommendation 5:</strong> Clarify communications about the aims of Cyber Assessment Framework, i.e., specify whether the document serves the purpose of compliance or independent risk assessment.</li>
 </ul>
-
+<br>
+<div style="text-align: center; position: relative; margin: 2em 0;">
+  <hr style="border: none; border-top: 1px solid #ccc; margin: 0;">
+  <span style="position: absolute; top: -0.7em; left: 50%; transform: translateX(-50%); background: #f6f6f6; padding: 0 0.5em;">***</span>
+</div>
 <p><strong>Policy Recommendations on the Cyber Assessment framework:</strong></p>
 <ul>
   <li><strong>Recommendation 6:</strong> Competent Authorities to clearly communicate the aim of self-assessments to the operators as well as the executive boards (i.e., CAF as a way to identify gaps, manage risks and agree on implementation plans). As a result, operators will not under pressure to achieve ‘green’ Indicators of Good Practice at all costs.</li>
@@ -126,9 +146,17 @@ This project contributed towards building a community of both cyber security exp
   <li><strong>Recommendation 17:</strong> All stakeholders should consider the cascading effects on small operators that currently do not fall under scope, especially as interoperability and digitalisation initiatives are under way (BEIS, 2022).</li>
   <li><strong>Recommendation 18:</strong> Future UK Government activities ought to prioritise communicating clarity in the strategic direction. We need a timely response to the EU proposals on NIS2 to enable harmonisation at the international level and cross-referencing NIS to upcoming standards (e.g., consumer IoT security) and sectoral security initiatives (e.g., Energy Smart Appliances). We can expect renewed discussions on scope, incident thresholds and the notion of the ‘appropriateness and proportionality’.</li>
 </ul>
-
+<br>
+<div style="text-align: center; position: relative; margin: 2em 0;">
+  <hr style="border: none; border-top: 1px solid #ccc; margin: 0;">
+  <span style="position: absolute; top: -0.7em; left: 50%; transform: translateX(-50%); background: #f6f6f6; padding: 0 0.5em;">***</span>
+</div>
 <p><strong>Project team:</strong> Dr Ola Michalec (Fellow)</p>
-
+<br>
+<div style="text-align: center; position: relative; margin: 2em 0;">
+  <hr style="border: none; border-top: 1px solid #ccc; margin: 0;">
+  <span style="position: absolute; top: -0.7em; left: 50%; transform: translateX(-50%); background: #f6f6f6; padding: 0 0.5em;">***</span>
+</div>
 <p><strong>Outputs:</strong></p>
 <ul>
   <li><strong>Report:</strong> "Resolving Anti-Patterns in Industrial Control Systems Environments". 2023. Contribution to the Report by the National Cyber Security Centre Industrial Control Systems Community of Interest. <a href="https://ritics.org/wp-content/uploads/2023/10/ICS-COI-Resolving-Anti-Patterns.pdf">Full text</a></li>
