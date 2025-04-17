@@ -23,6 +23,12 @@ Decarbonising energy systems by 2050 presents multiple dilemmas between national
   <hr style="border: none; border-top: 1px solid #ccc; margin: 0;">
   <span style="position: absolute; top: -0.7em; left: 50%; transform: translateX(-50%); background: #f6f6f6; padding: 0 0.5em;">***</span>
 </div>
+ <p><strong>Policy Recommendations:</strong></p>
+  <br>
+<div style="text-align: center; position: relative; margin: 2em 0;">
+  <hr style="border: none; border-top: 1px solid #ccc; margin: 0;">
+  <span style="position: absolute; top: -0.7em; left: 50%; transform: translateX(-50%); background: #f6f6f6; padding: 0 0.5em;">***</span>
+</div>
 <p><strong>Project team:</strong> Dr Ola Michalec (Fellow)</p>
 <div style="text-align: center; position: relative; margin: 2em 0;">
   <hr style="border: none; border-top: 1px solid #ccc; margin: 0;">
@@ -50,7 +56,27 @@ Join us to the inaugural [conference](https://hypestudies.org/conference) at the
    <summary><strong>[Read more]</strong></summary>
   <p>
   <p><strong>Conference:</strong></p>
-
+<div style="text-align: center; position: relative; margin: 2em 0;">
+  <hr style="border: none; border-top: 1px solid #ccc; margin: 0;">
+  <span style="position: absolute; top: -0.7em; left: 50%; transform: translateX(-50%); background: #f6f6f6; padding: 0 0.5em;">***</span>
+</div>
   <p><strong>Commissioned artwork</strong></p>
+  <br>
+<div style="text-align: center; position: relative; margin: 2em 0;">
+  <hr style="border: none; border-top: 1px solid #ccc; margin: 0;">
+  <span style="position: absolute; top: -0.7em; left: 50%; transform: translateX(-50%); background: #f6f6f6; padding: 0 0.5em;">***</span>
+</div>
+<p><strong>Project team:</strong> Andreu Belsunces Gonçalves, Wenzel Mehnert, Vassilis Galanos, Dani Shanley, Jascha Bareis, Pierre Depaz, Isa Luiten, Ola Michalec </p>
+<div style="text-align: center; position: relative; margin: 2em 0;">
+  <hr style="border: none; border-top: 1px solid #ccc; margin: 0;">
+  <span style="position: absolute; top: -0.7em; left: 50%; transform: translateX(-50%); background: #f6f6f6; padding: 0 0.5em;">***</span>
+</div>
+<p><strong>Outputs:</strong></p>
+<ul>
+  <li><strong>type:</strong> "referece". <a href="link">Full text</a></li>
+</ul>
 
+
+  </p>
+  </details>
   
