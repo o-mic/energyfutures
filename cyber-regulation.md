@@ -21,12 +21,12 @@ The project developed an empirically-grounded understanding of the role and impa
   <span style="position: absolute; top: -0.7em; left: 50%; transform: translateX(-50%); background: #f6f6f6; padding: 0 0.5em;">***</span>
 </div>
 
-<p>In <a href="https://doi.org/10.1111/rego.12423">"Reconfiguring governance: How cyber security regulations are reconfiguring water governance"</a>, we argue that the Network and Information Systems Regulations acts as a 'boundary object' that gathers diverse communities of practice, enabling collaboration without the need to establish common goals.</p>
+<p>In <a href="https://doi.org/10.1111/rego.12423">"Reconfiguring governance: How cyber security regulations are reconfiguring water governance"</a>, we argue that the Network and Information Systems Regulations acts as a 'boundary object' that gathers diverse communities of practice, enabling collaboration without the need to establish common goals. The image below theorises the relationship between boundary objects and standards. </p>
 <p><img src="/assets/gallery/rego1.jpg" alt="rego1" style="display:block; margin-left:auto; margin-right:auto" width="350" height="350" /></p>
-<p>In the process of transposing the EU NIS Directive into the sectoral and national context, NIS requires interpretation by diverse expert communities. We show how translating the regulatory scope to the sectoral landscape involves prioritising some water governance goals over others. As expert communities converge in their collaboration practices, their priorities align or stand in tension with public interests. We argue that cyber security regulations have potential to reconfigure water governance by refocusing strategic priorities away from traditional concerns of environmental governance.</p>
+<p>In the process of transposing the EU NIS Directive into the sectoral and national context, NIS requires interpretation by diverse expert communities. We show how translating the regulatory scope to the sectoral landscape involves prioritising some water governance goals over others. As expert communities converge in their collaboration practices, their priorities align or stand in tension with public interests. We argue that cyber security regulations have potential to reconfigure water governance by refocusing strategic priorities away from traditional concerns of environmental governance. The following tables provide the analysis of 1) different beneficiaries of cyber security in the context of critical infrastructure (water) regulations; 2) Examples of translations of best practice from IT to OT.</p>
 <p><img src="/assets/gallery/rego2.png" alt="rego2" style="display:block; margin-left:auto; margin-right:auto" width="600" height="500" /></p>
 <p><img src="/assets/gallery/rego3.png" alt="rego3" style="display:block; margin-left:auto; margin-right:auto" width="600" height="400" /></p>
-<p>We inquired into five instances of collaboration in the water industry cyber security landscape. We analysed whether they help or hinder with the alignment of NIS and public interest.</p>
+<p>We inquired into five instances of collaboration in the water industry cyber security landscape. We analysed whether they help or hinder with the alignment of NIS and public interest. See the table below for more details: </p>
 <p><img src="/assets/gallery/rego4.png" alt="rego4" style="display:block; margin-left:auto; margin-right:auto" width="600" height="600" /></p>
 <br>
 <div style="text-align: center; position: relative; margin: 2em 0;">
@@ -99,19 +99,28 @@ This project contributed towards building a community of both cyber security exp
    <summary><strong>[Read more]</strong></summary>
   <p>
 <p><strong>Main Findings:</strong></p>
-<p>In the report <a href="https://ritics.org/wp-content/uploads/2023/06/Whats-next-for-NIS-RITICS-report-final-310123.pdf">"What’s next for the NIS Regulations? Findings from the RITICS Fellowship"</a>, we investigate the Cyber Assessment Framework (CAF) introduced in the NIS Regulations. It is designed as a guidance outlining desired outcomes of good cyber security practices that facilitate independent risk management among the Operators of Essential Services. However, my project found a paradox regarding the use of CAF. Despite being designed to guide independent risk assessment and discourage ‘box ticking’, in some cases, CAF has been used as a prescriptive document, outlining exactly what needs to be achieved for compliance. This was justified with poor understanding of industrial assets and associated security risks across the Operators. We argue that outcome-based regulations are more likely to be successful once the stakeholders identify and apply a set of baseline security improvements. Such improvements ought to be benchmarked across the sector, linked to the traditional requirement of safety, and culturally accepted by Operational Technology engineers.</p>
+<p>In the report <a href="https://ritics.org/wp-content/uploads/2023/06/Whats-next-for-NIS-RITICS-report-final-310123.pdf">"What’s next for the NIS Regulations? Findings from the RITICS Fellowship"</a>, we investigate the Cyber Assessment Framework (CAF) introduced in the NIS Regulations. It is designed as a guidance outlining desired outcomes of good cyber security practices that facilitate independent risk management among the Operators of Essential Services. However, my project found a paradox regarding the use of CAF. Despite being designed to guide independent risk assessment and discourage ‘box ticking’, in some cases, CAF has been used as a prescriptive document, outlining exactly what needs to be achieved for compliance. This was justified with poor understanding of industrial assets and associated security risks across the Operators. We argue that outcome-based regulations are more likely to be successful once the stakeholders identify and apply a set of baseline security improvements. Such improvements ought to be benchmarked across the sector, linked to the traditional requirement of safety, and culturally accepted by Operational Technology engineers. The diagram below illustrates the paradox of CAF deisgned as 'outcome-based' document, yet in practice treated as 'prescriptive guidance'.</p>
 
 <p><img src="/assets/gallery/Policy1.jpg" alt="policy1" style="display:block; margin-left:auto; margin-right:auto" width="400" height="400" /></p>
 
-<p>My project found that the implementation of NIS is the first step to integrate safety and security through novel risk management practices observed in our fieldwork, such as broadening of threat and incident reporting scope to include security incidents and safety accidents. Successful implementation of NIS involves a variety of collaborations, e.g., across managers and technical professionals, across the operators, and across safety and security experts, as shown on the figure below. However, we also show that security risk management practices cannot be directly transplanted from the safety realm. This is because cyber security is grounded in anticipation of the future uncertain adversarial behaviours, while safety risk management relies on a long history of data on equipment failure rates. As such, we call for exercising care while transplanting concepts from ‘safety culture’ into the realm of cyber security. Going forward, we recommend that NIS stakeholders encourage collaborative practices to implement NIS and advance security at a societal level, rather than working at organisational level only.</p>
+<p>My project found that the implementation of NIS is the first step to integrate safety and security through novel risk management practices observed in our fieldwork, such as broadening of threat and incident reporting scope to include security incidents and safety accidents. Successful implementation of NIS involves a variety of collaborations, e.g., across managers and technical professionals, across the operators, and across safety and security experts, as shown on the figure below.</p> 
 
 <p><img src="/assets/gallery/Ritics1.png" alt="Ritics1" style="display:block; margin-left:auto; margin-right:auto" width="500" height="600" /></p>
+  
+<p>However, we also show that security risk management practices cannot be directly transplanted from the safety realm. This is because cyber security is grounded in anticipation of the future uncertain adversarial behaviours, while safety risk management relies on a long history of data on equipment failure rates. As such, we call for exercising care while transplanting concepts from ‘safety culture’ into the realm of cyber security. Going forward, we recommend that NIS stakeholders encourage collaborative practices to implement NIS and advance security at a societal level, rather than working at organisational level only.</p>
+
+
 <br>
 <div style="text-align: center; position: relative; margin: 2em 0;">
   <hr style="border: none; border-top: 1px solid #ccc; margin: 0;">
   <span style="position: absolute; top: -0.7em; left: 50%; transform: translateX(-50%); background: #f6f6f6; padding: 0 0.5em;">***</span>
 </div>
 <p>In the guidance <a href="https://ritics.org/wp-content/uploads/2023/10/ICS-COI-Resolving-Anti-Patterns.pdf">Resolving anti-patterns</a>, written collaboratively with the Industrial Control Systems Community of Interest, we identified five 'anti-patterns' (or poor practices), common in OT environments. We unpicked the thinking behind those anti-patterns, explains why they are examples of poor practice and proposed better alternatives. The anti-patterns analysed in the report are: 1) Flat, unsegmented/unsegregated architectures; 2) Uncontrolled access to ICS/OT networks; 3) Lack of authentication and data security; 4) Inaccurate asset inventory; 5) Unchecked backups.</p>
+<br>
+<div style="text-align: center; position: relative; margin: 2em 0;">
+  <hr style="border: none; border-top: 1px solid #ccc; margin: 0;">
+  <span style="position: absolute; top: -0.7em; left: 50%; transform: translateX(-50%); background: #f6f6f6; padding: 0 0.5em;">***</span>
+</div>
 
 <p><strong>Policy Recommendations for Competent Authorities:</strong></p>
 <ul>
@@ -126,6 +135,7 @@ This project contributed towards building a community of both cyber security exp
   <hr style="border: none; border-top: 1px solid #ccc; margin: 0;">
   <span style="position: absolute; top: -0.7em; left: 50%; transform: translateX(-50%); background: #f6f6f6; padding: 0 0.5em;">***</span>
 </div>
+<br>
 <p><strong>Policy Recommendations on the Cyber Assessment framework:</strong></p>
 <ul>
   <li><strong>Recommendation 6:</strong> Competent Authorities to clearly communicate the aim of self-assessments to the operators as well as the executive boards (i.e., CAF as a way to identify gaps, manage risks and agree on implementation plans). As a result, operators will not under pressure to achieve ‘green’ Indicators of Good Practice at all costs.</li>
@@ -152,7 +162,6 @@ This project contributed towards building a community of both cyber security exp
   <span style="position: absolute; top: -0.7em; left: 50%; transform: translateX(-50%); background: #f6f6f6; padding: 0 0.5em;">***</span>
 </div>
 <p><strong>Project team:</strong> Dr Ola Michalec (Fellow)</p>
-<br>
 <div style="text-align: center; position: relative; margin: 2em 0;">
   <hr style="border: none; border-top: 1px solid #ccc; margin: 0;">
   <span style="position: absolute; top: -0.7em; left: 50%; transform: translateX(-50%); background: #f6f6f6; padding: 0 0.5em;">***</span>
