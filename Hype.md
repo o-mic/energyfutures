@@ -4,6 +4,7 @@ title: Hype
 
 ![Hype-1](assets/img/energy-hype1.gif){:style="display:block; margin-left:auto; margin-right:auto"}{: width="350" }{: height="350" }
 
+TODO: embed RGS and ESC videos, add power point pres as a pdf?
 
 <h3> <p style="text-align: center;"> Living in a simulation? Cybernetic promises and data challenges of digital twins to decarbonise energy systems </p> </h3> 
 
