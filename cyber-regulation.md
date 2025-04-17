@@ -51,8 +51,8 @@ The project developed an empirically-grounded understanding of the role and impa
 <li><strong>Journal article:</strong> "Reconfiguring governance: How cyber security regulations are reconfiguring water governance". 2022. By Michalec, O., Milyaeva, S. and Rashid, A. In: Regulation and Governance. <a href="https://doi.org/10.1111/rego.12423">Full text</a></li>
 <li><strong>Journal article:</strong>  "Industry Responses to the European Directive on Security of Network and Information Systems (NIS): Understanding policy implementation practices across critical infrastructures". 2022. By: Michalec, O., van der Linden, D., Milyaeva, S. and Rashid, A. In: Symposium on Usable Privacy and Security. <a href="https://www.usenix.org/conference/soups2020/presentation/michalec">Full text</a></li>
 </ul>
-
-
+ </p>
+</details>
 
 ![10365](assets/img/10365.gif){:style="display:block; margin-left:auto; margin-right:auto"}{: width="350" }{: height="350" }
 
