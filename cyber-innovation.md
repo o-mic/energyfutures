@@ -21,14 +21,14 @@ Previous research on IoT in energy focuses on appliances, consumers and emerging
 </ul>
 
 <!-- Insert image here -->
-<p><img src="assets/gallery/Imaginary1.png" alt="Image description" style="display:block; margin-left:auto; margin-right:auto" width="400" height="auto" /></p>
+<p><img src="/assets/gallery/Imaginary1.png" alt="Image description" style="display:block; margin-left:auto; margin-right:auto" width="400" height="auto" /></p>
 
 <ul>
   <li>In <a href="https://doi.org/10.1002/geo2.156">"Electric feels: The role of visual methods in energy futuring"</a></li>
 </ul>
 
 <!-- Insert images and x-links here -->
-<p><img src="assets/gallery/EF1.jpeg" alt="Image description" style="display:block; margin-left:auto; margin-right:auto" width="400" height="auto" /></p>
+<p><img src="/assets/gallery/EF1.jpeg" alt="Image description" style="display:block; margin-left:auto; margin-right:auto" width="400" height="auto" /></p>
 
 <p><strong>Policy Recommendations:</strong></p>
 
