@@ -18,6 +18,21 @@ Decarbonising energy systems by 2050 presents multiple dilemmas between national
   <p>
   <p><strong>Main findings:</strong></p>
 
+  <br>
+<div style="text-align: center; position: relative; margin: 2em 0;">
+  <hr style="border: none; border-top: 1px solid #ccc; margin: 0;">
+  <span style="position: absolute; top: -0.7em; left: 50%; transform: translateX(-50%); background: #f6f6f6; padding: 0 0.5em;">***</span>
+</div>
+<p><strong>Project team:</strong> Dr Ola Michalec (Fellow)</p>
+<div style="text-align: center; position: relative; margin: 2em 0;">
+  <hr style="border: none; border-top: 1px solid #ccc; margin: 0;">
+  <span style="position: absolute; top: -0.7em; left: 50%; transform: translateX(-50%); background: #f6f6f6; padding: 0 0.5em;">***</span>
+</div>
+<p><strong>Outputs:</strong></p>
+<ul>
+  <li><strong>Peer-reviewed journal article:</strong> "“Models vs infrastructures? On the role of digital twins’ hype in anticipating the governance of the UK energy industry”. In Environmental Science and Policy (Special Issue on twin transitions). 2025. By Michalec, O.". <a href="https://doi.org/10.1016/j.envsci.2025.104041">Full text</a></li>
+</ul>
+
 
   </p>
   </details>
