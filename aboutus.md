@@ -92,3 +92,10 @@ The images accompanying the website were created by [Ian Keavney](https://crash-
 <br />
 ### Design
 The website has been built by me with help from the Beautiful Jekyll template. Tips and feedback welcome--so far, I've been really enjoying learning the basics of web design! 
+
+<script>
+  document.querySelector('.image-hover-container').addEventListener('mouseover', () => {
+    document.querySelector('.hover-caption').style.display = 'block';
+  });
+</script>
+
