@@ -3,7 +3,7 @@ title: Publications
 ---
 ![glitch1013](assets/img/1013.gif){:style="display:block; margin-left:auto; margin-right:auto"}{: width="350" }{: height="350" }
 
-
+On this page you can find a list of papers, briefings, policy consultations, reports and podcasts related to the main themes of my research: digital energy futures, critical infrastructure security and the politics of innovation. For a full list of publications (including work done with students and researchers on other topics), see my [google scholar profile](https://scholar.google.com/citations?user=abDmargAAAAJ&hl=en&oi=ao). All my publications are free to access for everyone--please credit me if you have found my work useful in any way! Feel free to [reach out](https://www.bristol.ac.uk/people/person/Ola-Michalec-71ecc9a4-46cc-44f7-b382-ab767d7dc1c5/) to me directly if you have any issues with accessing any of the outputs.
 
 #### 2025
 
