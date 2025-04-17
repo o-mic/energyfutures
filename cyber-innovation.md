@@ -12,7 +12,7 @@ The Internet of Thngs (IoT) is expected to play a major part in the ongoing tran
 Previous research on IoT in energy focuses on appliances, consumers and emerging technologies. So far, there has been little focus on IoT in energy organisations and interactions between them. Without critical social science research on the disruptive powers of IoT to security and privacy of energy markets, there is a risk that energy innovation will not be aligned with public interest. The researchers will deliver reports on the future of current policies like Network and Information Systems Security Regulation and proposed regulations to consumer IoT security, and will engage with stakeholders in the field to inform current initiatives.
 
 <details>
-  <summary>Read more</summary>
+   <summary><strong>[Read more]</strong></summary>
   <p>
   <p><strong>Main findings:</strong></p>
 
