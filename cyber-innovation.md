@@ -20,7 +20,7 @@ In <a href="https://doi.org/10.1016/j.erss.2023.103327">"Who will keep the light
 
 
 <!-- Insert image here -->
-<p><img src="/assets/gallery/Imaginary1.png" alt="Imageinaries" style="display:block; margin-left:auto; margin-right:auto" width="auto" height="auto" /></p>
+<p><img src="/assets/gallery/Imaginary1.png" alt="Imageinaries" style="display:block; margin-left:auto; margin-right:auto" width="70%" height="70%" /></p>
 
 
 
