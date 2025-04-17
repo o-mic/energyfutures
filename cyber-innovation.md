@@ -20,7 +20,7 @@ In <a href="https://doi.org/10.1016/j.erss.2023.103327">"Who will keep the light
 
 
 <!-- Insert image here -->
-<p><img src="/assets/gallery/Imaginary1.png" alt="Image description" style="display:block; margin-left:auto; margin-right:auto" width="400" height="auto" /></p>
+<p><img src="/assets/gallery/Imaginary1.png" alt="Imageinaries" style="display:block; margin-left:auto; margin-right:auto" width="400" height="auto" /></p>
 
 
 In <a href="https://doi.org/10.1002/geo2.156">"Electric feels: The role of visual methods in energy futuring"</a></li>
