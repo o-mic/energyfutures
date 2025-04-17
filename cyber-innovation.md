@@ -11,6 +11,10 @@ The Internet of Thngs (IoT) is expected to play a major part in the ongoing tran
 
 Previous research on IoT in energy focuses on appliances, consumers and emerging technologies. So far, there has been little focus on IoT in energy organisations and interactions between them. Without critical social science research on the disruptive powers of IoT to security and privacy of energy markets, there is a risk that energy innovation will not be aligned with public interest. The researchers will deliver reports on the future of current policies like Network and Information Systems Security Regulation and proposed regulations to consumer IoT security, and will engage with stakeholders in the field to inform current initiatives.
 
+<details>
+  <summary>Read more</summary>
+  <p>
+    
 **Main findings:**
 
 * In ["Who will keep the lights on? Expertise and inclusion in cyber security visions of future energy systems"](https://doi.org/10.1016/j.erss.2023.103327), we explored how experts envision the future(s) of cyber security governance in the energy sector. The three imaginaries identified present cyber security issues as a matter of design, as a support function, and as public trust. We argue that while each vision prioritises a different set of actions, none of them adequately considers the interplay between inclusivity and expertise. By exploring what each of these potential futures enables, hinders, or assumes, as well as how they compete or complement each other, we derive a number of recommendations to ensure cyber security expertise becomes more inclusive, democratic and participatory.
@@ -51,3 +55,5 @@ Previous research on IoT in energy focuses on appliances, consumers and emerging
 * **Briefing:** How to talk about security of emerging technologies? 2022 By Michalec, O. [Full text](https://petras-iot.org/wp-content/uploads/2022/03/How-to-talk-about-cybersecurity-of-emerging-technologies.pdf)
 
 
+  </p>
+</details>
