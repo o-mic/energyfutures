@@ -37,8 +37,11 @@ My research interests revolve around understanding how experts from diverse fiel
   </div>
 </div>
 
+
+<br>
+
 <div class="image-hover-container" style="width: 350px; margin: 0 auto; position: relative;">
-  <img src="assets/img/ola-headshot.jpg" alt="my headshot" style="width: 100%; display: block;">
+  <img src="{{ 'assets/img/ola-headshot.jpg' | relative_url }}" alt="my headshot" style="width: 100%; display: block;">
   <div class="hover-caption" style="
     display: none;
     position: absolute;
