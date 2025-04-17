@@ -16,19 +16,25 @@ Previous research on IoT in energy focuses on appliances, consumers and emerging
   <p>
   <p><strong>Main findings:</strong></p>
 
-In <a href="https://doi.org/10.1016/j.erss.2023.103327">"Who will keep the lights on? Expertise and inclusion in cyber security visions of future energy systems"</a>, we explored how experts envision the future(s) of cyber security governance in the energy sector. The three imaginaries identified present cyber security issues as a matter of design, as a support function, and as public trust. We argue that while each vision prioritises a different set of actions, none of them adequately considers the interplay between inclusivity and expertise. By exploring what each of these potential futures enables, hinders, or assumes, as well as how they compete or complement each other, we derive a number of recommendations to ensure cyber security expertise becomes more inclusive, democratic and participatory.</li>
+In <a href="https://doi.org/10.1016/j.erss.2023.103327">"Who will keep the lights on? Expertise and inclusion in cyber security visions of future energy systems"</a>, we explored how experts envision the future(s) of cyber security governance in the energy sector. The three imaginaries identified present cyber security issues as a matter of design, as a support function, and as public trust. We argue that while each vision prioritises a different set of actions, none of them adequately considers the interplay between inclusivity and expertise. By exploring what each of these potential futures enables, hinders, or assumes, as well as how they compete or complement each other, we derive a number of recommendations to ensure cyber security expertise becomes more inclusive, democratic and participatory.
 
 
 <!-- Insert image here -->
-<p><img src="/assets/gallery/Imaginary1.png" alt="Imageinaries" style="display:block; margin-left:auto; margin-right:auto" width="400" height="auto" /></p>
+<p><img src="/assets/gallery/Imaginary1.png" alt="Imageinaries" style="display:block; margin-left:auto; margin-right:auto" width="auto" height="auto" /></p>
 
 
-In <a href="https://doi.org/10.1002/geo2.156">"Electric feels: The role of visual methods in energy futuring"</a></li>
+
+
+In <a href="https://doi.org/10.1002/geo2.156">"Electric feels: The role of visual methods in energy futuring"</a> we.....
 
 
 <!-- Insert images and x-links here -->
 <p><img src="/assets/gallery/EF1.jpeg" alt="Image description" style="display:block; margin-left:auto; margin-right:auto" width="400" height="auto" /></p>
-
+<br>
+<p><img src="/assets/gallery/EF2.jpg" alt="Imageinaries" style="display:block; margin-left:auto; margin-right:auto" width="auto" height="auto" /></p>
+<br>
+<p><img src="/assets/gallery/EF3.jpg" alt="Imageinaries" style="display:block; margin-left:auto; margin-right:auto" width="auto" height="auto" /></p>
+<br>
 <p><strong>Policy Recommendations:</strong></p>
 
 <ul>
