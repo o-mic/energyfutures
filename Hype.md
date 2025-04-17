@@ -1,5 +1,5 @@
 ---
-title: Innovation
+title: Hype
 ---
 
 ![Hype-collage](assets/img/Hype-collage.jpeg){:style="display:block; margin-left:auto; margin-right:auto"}{: width="500" }{: height="800" }
@@ -21,3 +21,19 @@ Decarbonising energy systems by 2050 presents multiple dilemmas between national
 
   </p>
   </details>
+
+  <h3> <p style="text-align: center;"> Hype Studies Group </p> </h3> 
+
+[Hype Studies](https://hypestudies.org/) is an emergent, transdisciplinary research area aimed to investigate hype as a powerful and pervasive phenomenon that influences economic trends, political agendas, media narratives, and technological developments. We are a group of researchers and designers exploring how hype is a thing that does things. As a force composing and affecting attention, markets, politics, feelings, imagination, matter and knowledge, time and space. The Hype Studies group will be sharing resources and organising events to collectively understand and intervene into hype and its politics.
+
+Join us to the inaugural [conference](https://hypestudies.org/conference) at the Universitat Oberta de Catalunya 10-12th September 2025 (hybrid attendance available). We hope that the conference will attract researchers interested in how energy innovations suceed or fail. In the age of noise and careless promises, how can we better evaluate hype related to 'sustainable' technologies?
+
+
+  <details>
+  <summary>Read more</summary>
+  <p>
+  <p><strong>Conference:</strong></p>
+
+  <p><strong>Commissioned artwork</strong></p>
+
+  
