@@ -22,7 +22,11 @@ In <a href="https://doi.org/10.1016/j.erss.2023.103327">"Who will keep the light
 <!-- Insert image here -->
 <p><img src="/assets/gallery/Imaginary1.png" alt="Imageinaries" style="display:block; margin-left:auto; margin-right:auto" width="70%" height="70%" /></p>
 
-
+<br>
+<div style="text-align: center; position: relative; margin: 2em 0;">
+  <hr style="border: none; border-top: 1px solid #ccc; margin: 0;">
+  <span style="position: absolute; top: -0.7em; left: 50%; transform: translateX(-50%); background: #f6f6f6; padding: 0 0.5em;">***</span>
+</div>
 
 
 In <a href="https://doi.org/10.1002/geo2.156">"Electric feels: The role of visual methods in energy futuring"</a>  we told a story of our unique art-research collaboration, shared our illustrations, event summaries and reflected on the power of visual methods to galvanise a new type of public conversation related to emotions, energy and digital innovation. By bringing together the literature from design research, STS and human geography, we intended to lay a path towards further interdisciplinary conversations. This commentary paper made a case for collective energy ‘futuring’—embracing the role of affect, speculation and imagination, while moving away from the deficit model of public engagement in science. I took the photographs below to illustrate some of the activities we ran during the course of the project (from the top): 1) Make your own smart thingamajig 2) Electric Tarot 3) A conference display 4) Digital Design Weekend at the V&A.
@@ -36,6 +40,10 @@ In <a href="https://doi.org/10.1002/geo2.156">"Electric feels: The role of visua
 <p><img src="/assets/gallery/EF3.jpg" alt="Imageinaries" style="display:block; margin-left:auto; margin-right:auto" width="auto" height="auto" /></p>
 <p><img src="/assets/gallery/ef32.jpg" alt="Imageinaries" style="display:block; margin-left:auto; margin-right:auto" width="auto" height="auto" /></p>
 <br>
+<div style="text-align: center; position: relative; margin: 2em 0;">
+  <hr style="border: none; border-top: 1px solid #ccc; margin: 0;">
+  <span style="position: absolute; top: -0.7em; left: 50%; transform: translateX(-50%); background: #f6f6f6; padding: 0 0.5em;">***</span>
+</div>
 <p><strong>Policy Recommendations:</strong></p>
 
 <ul>
@@ -55,9 +63,17 @@ In <a href="https://doi.org/10.1002/geo2.156">"Electric feels: The role of visua
 
   <li><strong>Recommendation 8:</strong> We recommend closer collaborations between the energy policymakers and civic rights groups. The Department for Energy Security and Net Zero ought to proactively create consultation opportunities for stakeholders advocating inclusion. Likewise, civic rights groups ought to build their technology capabilities to challenge unfair developments.</li>
 </ul>
-
+<br>
+<div style="text-align: center; position: relative; margin: 2em 0;">
+  <hr style="border: none; border-top: 1px solid #ccc; margin: 0;">
+  <span style="position: absolute; top: -0.7em; left: 50%; transform: translateX(-50%); background: #f6f6f6; padding: 0 0.5em;">***</span>
+</div>
 <p><strong>Project team:</strong> Prof Awais Rashid (PI), Dr Ola Michalec (Researcher Co-I), Dr Ben Shreeve (Researcher), Joe Bourne (Creative Engagement)</p>
-
+<br>
+<div style="text-align: center; position: relative; margin: 2em 0;">
+  <hr style="border: none; border-top: 1px solid #ccc; margin: 0;">
+  <span style="position: absolute; top: -0.7em; left: 50%; transform: translateX(-50%); background: #f6f6f6; padding: 0 0.5em;">***</span>
+</div>
 <p><strong>Outputs:</strong></p>
 
 <ul>
