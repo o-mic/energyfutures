@@ -14,45 +14,55 @@ Previous research on IoT in energy focuses on appliances, consumers and emerging
 <details>
   <summary>Read more</summary>
   <p>
-    
-**Main findings:**
+  <p><strong>Main findings:</strong></p>
 
-* In ["Who will keep the lights on? Expertise and inclusion in cyber security visions of future energy systems"](https://doi.org/10.1016/j.erss.2023.103327), we explored how experts envision the future(s) of cyber security governance in the energy sector. The three imaginaries identified present cyber security issues as a matter of design, as a support function, and as public trust. We argue that while each vision prioritises a different set of actions, none of them adequately considers the interplay between inclusivity and expertise. By exploring what each of these potential futures enables, hinders, or assumes, as well as how they compete or complement each other, we derive a number of recommendations to ensure cyber security expertise becomes more inclusive, democratic and participatory.
+<ul>
+  <li>In <a href="https://doi.org/10.1016/j.erss.2023.103327">"Who will keep the lights on? Expertise and inclusion in cyber security visions of future energy systems"</a>, we explored how experts envision the future(s) of cyber security governance in the energy sector. The three imaginaries identified present cyber security issues as a matter of design, as a support function, and as public trust. We argue that while each vision prioritises a different set of actions, none of them adequately considers the interplay between inclusivity and expertise. By exploring what each of these potential futures enables, hinders, or assumes, as well as how they compete or complement each other, we derive a number of recommendations to ensure cyber security expertise becomes more inclusive, democratic and participatory.</li>
+</ul>
 
-(image)
+<!-- Insert image here -->
+<p><img src="assets/gallery/Imaginary1.png" alt="Image description" style="display:block; margin-left:auto; margin-right:auto" width="400" height="auto" /></p>
 
-* In ["Electric feels: The role of visual methods in energy futuring"](https://doi.org/10.1002/geo2.156)
+<ul>
+  <li>In <a href="https://doi.org/10.1002/geo2.156">"Electric feels: The role of visual methods in energy futuring"</a></li>
+</ul>
 
-(images and x-links)
+<!-- Insert images and x-links here -->
+<p><img src="assets/gallery/EF1.jpeg" alt="Image description" style="display:block; margin-left:auto; margin-right:auto" width="400" height="auto" /></p>
 
-**Policy Recommendations:**
+<p><strong>Policy Recommendations:</strong></p>
 
-* Recommendation 1: The upcoming cyber security regulatory initiatives (Energy Smart Appliances, consumer IoT, NIS2) should signpost to the existing electrical safety guidelines to avoid the conflicts between these two requirements.
-  
-* Recommendation 2:	Policymakers ought to revise the applicability of electrical safety regulations in the light of energy digitalisation and the advent of new requirements like security or privacy.
+<ul>
+  <li><strong>Recommendation 1:</strong> The upcoming cyber security regulatory initiatives (Energy Smart Appliances, consumer IoT, NIS2) should signpost to the existing electrical safety guidelines to avoid the conflicts between these two requirements.</li>
 
-* Recommendation 3: Open data initiatives in the energy sector should challenge the current culture of secrecy in critical infrastructure by mandating a role parallel to data protection officers in GDPR.
+  <li><strong>Recommendation 2:</strong> Policymakers ought to revise the applicability of electrical safety regulations in the light of energy digitalisation and the advent of new requirements like security or privacy.</li>
 
-* Recommendation 4: Cyber security expertise in the energy sector ought to be recognised under the government ‘green jobs’ targets.
+  <li><strong>Recommendation 3:</strong> Open data initiatives in the energy sector should challenge the current culture of secrecy in critical infrastructure by mandating a role parallel to data protection officers in GDPR.</li>
 
-* Recommendation 5: Programs engaging the public with smart energy (e.g., Smart Energy GB) should address digital literacy and digital inclusion with tailored guidelines for prospective consumers.
-  
-* Recommendation 6: Smart energy standardisation bodies (e.g., British Standards Institute - BSI) ought to collaborate with social scientists to resolve the tension between the need to create a benchmarked security standard in the industry and the requirement to make smart technologies tailored to underserved populations.
+  <li><strong>Recommendation 4:</strong> Cyber security expertise in the energy sector ought to be recognised under the government ‘green jobs’ targets.</li>
 
-* Recommendation 7: Smart energy policymakers and designers of smart appliances should widen their stakeholder circle during consultations and co-design activities. Consultations should involve citizens and be concerned with user experience.
+  <li><strong>Recommendation 5:</strong> Programs engaging the public with smart energy (e.g., Smart Energy GB) should address digital literacy and digital inclusion with tailored guidelines for prospective consumers.</li>
 
-* Recommendation 8: We recommend closer collaborations between the energy policymakers and civic rights groups. The Department for Energy Security and Net Zero ought to proactively create consultation opportunities for stakeholders advocating inclusion. Likewise, civic rights groups ought to build their technology capabilities to challenge unfair developments.
+  <li><strong>Recommendation 6:</strong> Smart energy standardisation bodies (e.g., British Standards Institute - BSI) ought to collaborate with social scientists to resolve the tension between the need to create a benchmarked security standard in the industry and the requirement to make smart technologies tailored to underserved populations.</li>
+
+  <li><strong>Recommendation 7:</strong> Smart energy policymakers and designers of smart appliances should widen their stakeholder circle during consultations and co-design activities. Consultations should involve citizens and be concerned with user experience.</li>
+
+  <li><strong>Recommendation 8:</strong> We recommend closer collaborations between the energy policymakers and civic rights groups. The Department for Energy Security and Net Zero ought to proactively create consultation opportunities for stakeholders advocating inclusion. Likewise, civic rights groups ought to build their technology capabilities to challenge unfair developments.</li>
+</ul>
+
+<p><strong>Project team:</strong> Prof Awais Rashid (PI), Dr Ola Michalec (Researcher Co-I), Dr Ben Shreeve (Researcher), Joe Bourne (Creative Engagement)</p>
+
+<p><strong>Outputs:</strong></p>
+
+<ul>
+  <li><strong>Journal article:</strong> "Electric feels: The role of visual methods in energy futuring". 2024. In: Geo: Geography and Environment. By: Michalec, O., Bourne, J., Collver, J., Hart, M. F., Nasr, A., & Ormian, L. <a href="https://doi.org/10.1002/geo2.156">Full text</a></li>
+
+  <li><strong>Journal article:</strong> "Who will keep the lights on? Expertise and inclusion in cyber security visions of future energy systems". 2023. By Michalec, O., Shreeve, B., and Rashid, A. In: Energy Research and Social Science. <a href="https://doi.org/10.1016/j.erss.2023.103327">Full text</a></li>
+
+  <li><strong>Briefing:</strong> "How to talk about security of emerging technologies?" 2022. By Michalec, O. <a href="https://petras-iot.org/wp-content/uploads/2022/03/How-to-talk-about-cybersecurity-of-emerging-technologies.pdf">Full text</a></li>
+</ul>
 
 
-**Project team:** Prof Awais Rashid (PI), Dr Ola Michalec (Researcher Co-I), Dr Ben Shreeve (Researcher) Joe Bourne (Creative Engagement)
-
-**Outputs:** 
-
-* **Journal article:** "Electric feels: The role of visual methods in energy futuring". 2024. In: Geo: Geography and Environment. By: Michalec, O., Bourne, J., Collver, J., Hart, M. F., Nasr, A., & Ormian, L. [Full text](https://doi.org/10.1002/geo2.156)
-
-* **Journal article:** "Who will keep the lights on? Expertise and inclusion in cyber security visions of future energy systems". 2023 By Michalec, O., Shreeve, B. and Rashid, A. In: Energy Research and Social Science. [Full text](https://doi.org/10.1016/j.erss.2023.103327)
-
-* **Briefing:** How to talk about security of emerging technologies? 2022 By Michalec, O. [Full text](https://petras-iot.org/wp-content/uploads/2022/03/How-to-talk-about-cybersecurity-of-emerging-technologies.pdf)
 
 
   </p>
