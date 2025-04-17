@@ -2,7 +2,7 @@
 title: Innovation
 ---
 
-![Hype-collage](assets/img/Hype-collage.jpg){:style="display:block; margin-left:auto; margin-right:auto"}{: width="350" }{: height="350" }
+![Hype-collage](assets/img/Hype-collage.jpeg){:style="display:block; margin-left:auto; margin-right:auto"}{: width="500" }{: height="800" }
 
 
 <h3> <p style="text-align: center;"> Living in a simulation? Cybernetic promises and data challenges of digital twins to decarbonise energy systems </p> </h3> 
