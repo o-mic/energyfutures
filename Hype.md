@@ -2,7 +2,7 @@
 title: Hype
 ---
 
-![Hype-collage](assets/img/Hype-collage.jpeg){:style="display:block; margin-left:auto; margin-right:auto"}{: width="500" }{: height="800" }
+![Hype-1](assets/img/energy-hype1.gif){:style="display:block; margin-left:auto; margin-right:auto"}{: width="500" }{: height="500" }
 
 
 <h3> <p style="text-align: center;"> Living in a simulation? Cybernetic promises and data challenges of digital twins to decarbonise energy systems </p> </h3> 
@@ -21,6 +21,8 @@ Decarbonising energy systems by 2050 presents multiple dilemmas between national
 
   </p>
   </details>
+
+  ![Hype-2](assets/img/energy-hype2.gif){:style="display:block; margin-left:auto; margin-right:auto"}{: width="500" }{: height="500" }
 
   <h3> <p style="text-align: center;"> Hype Studies Group </p> </h3> 
 
