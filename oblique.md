@@ -2,6 +2,10 @@
 Oblique Manoeuvres
 ---
 
+Page under construction - [get in touch](mailto:ola.michalec@bristol.ac.uk) if you'd like to be notified about our updates.
+
+**In the meantme, you can read about the project idea below:**
+
 Over 2023-2024, I spent several months talking to innovators and R&D funders about the evolving ecosystem for the so-called digital twins in the UK. Hearing stories of collective mobilisation, enthusiasm, then disappointment, pivoting and future uncertainty made me reflect about the need to surface the perspectives on hype beyond academic critiques and curate safer spaces for discussing innovators’ own expectations and vulnerabilities. How to challenge the faux-optimistic, hasty and culture of software start ups? 
 
 This presentation will report on an ongoing project aiming to translate research findings into a card-based game for practitioners involved in the development of digital twins and adjacent technologies. I was initially inspired by the game called  “Oblique strategies” (https://www.theguardian.com/music/2009/sep/07/oblique-strategies ) developed by  Brian Eno and Peter Schmidt. The original Oblique Strategies were a series of somehow esoteric card prompts, aiming to help artists with overcoming creative blocks. There is no particular mechanics attached to the original game, i.e., players can draw a single card and reflect on it or decide to discuss several of them as a team. 
