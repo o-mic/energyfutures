@@ -59,73 +59,63 @@ The project developed an empirically-grounded understanding of the role and impa
 
 <h3><p style="text-align: center;"> What’s next for the NIS Directive? Extending the community of interest to better understand the Indicators of Good Practice</p></h3>
 
-<details>
-  <summary>Read more</summary>
-  <p>
 Since 2018, the European Union member states and the UK have been working on implementing the Network and Information Systems Security (NIS) Directive. The literature analysing the framing of NIS (e.g. [Michels and Walden, 2018](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3297470), and [Wallis and Johnson, 2020](https://ieeexplore.ieee.org/abstract/document/9139641)) points at two main policy concerns: (i) the operators will fail to share or disclose information about cybersecurity measures and breaches and, as a result,  (ii) we will lack the understanding of co-dependencies (i.e., how security issues impact other areas of business). Our recent work through RITICS on NIS implementation (Michalec et al., [2020](https://www.usenix.org/conference/soups2020/presentation/michalec) and [2022](https://journals.sagepub.com/doi/full/10.1177/20539517221108369)) confirmed that both the goals of NIS and OT security issues are poorly understood outside of the narrow circle of experts. In particular, the Indicators of Good Practice (IGP) need further refining to better illustrate the progress in maturity.
 
 This project contributed towards building a community of both cyber security experts and business leaders to enable translation between security and operational concerns and, as a result, make better decisions about cyber security in its broader organisational context. 
 
-**Main Findings:**
+<details>
+  <summary>Read more</summary>
+  <p>
+<p><strong>Main Findings:</strong></p>
+<p>In the report <a href="https://ritics.org/wp-content/uploads/2023/06/Whats-next-for-NIS-RITICS-report-final-310123.pdf">"What’s next for the NIS Regulations? Findings from the RITICS Fellowship"</a>, we investigate the Cyber Assessment Framework (CAF) introduced in the NIS Regulations. It is designed as a guidance outlining desired outcomes of good cyber security practices that facilitate independent risk management among the Operators of Essential Services. However, my project found a paradox regarding the use of CAF. Despite being designed to guide independent risk assessment and discourage ‘box ticking’, in some cases, CAF has been used as a prescriptive document, outlining exactly what needs to be achieved for compliance. This was justified with poor understanding of industrial assets and associated security risks across the Operators. We argue that outcome-based regulations are more likely to be successful once the stakeholders identify and apply a set of baseline security improvements. Such improvements ought to be benchmarked across the sector, linked to the traditional requirement of safety, and culturally accepted by Operational Technology engineers.</p>
 
-In the report ["What’s next for the NIS Regulations? Findings from the RITICS Fellowship"](https://ritics.org/wp-content/uploads/2023/06/Whats-next-for-NIS-RITICS-report-final-310123.pdf), we investigate the Cyber Assessment Framework (CAF) introduced in the NIS Regulations. It is designed as a guidance outlining desired outcomes of good cyber security practices that facilitate independent risk management among the Operators of Essential Services. However, my project found a paradox regarding the use of CAF. Despite being designed to guide independent risk assessment and discourage ‘box ticking’, in some cases, CAF has been used as a prescriptive document, outlining exactly what needs to be achieved for compliance. This was justified with poor understanding of industrial assets and associated security risks across the Operators. We argue that outcome-based regulations are more likely to be successful once the stakeholders identify and apply a set of baseline security improvements. Such improvements ought to be benchmarked across the sector, linked to the traditional requirement of safety, and culturally accepted by Operational Technology engineers.
+<p><img src="assets/gallery/Policy1.jpg" alt="policy1" style="display:block; margin-left:auto; margin-right:auto" width="400" height="400" /></p>
 
-![policy1](assets/gallery/Policy1.jpg){:style="display:block; margin-left:auto; margin-right:auto"}{: width="400" }{: height="400" }
+<p>My project found that the implementation of NIS is the first step to integrate safety and security through novel risk management practices observed in our fieldwork, such as broadening of threat and incident reporting scope to include security incidents and safety accidents. Successful implementation of NIS involves a variety of collaborations, e.g., across managers and technical professionals, across the operators, and across safety and security experts, as shown on the figure below. However, we also show that security risk management practices cannot be directly transplanted from the safety realm. This is because cyber security is grounded in anticipation of the future uncertain adversarial behaviours, while safety risk management relies on a long history of data on equipment failure rates. As such, we call for exercising care while transplanting concepts from ‘safety culture’ into the realm of cyber security. Going forward, we recommend that NIS stakeholders encourage collaborative practices to implement NIS and advance security at a societal level, rather than working at organisational level only.</p>
 
-My project found that the implementation of NIS is the first step to integrate safety and security through novel risk management practices observed in our fieldwork, such as broadening of threat and incident reporting scope to include security incidents and safety accidents. Successful implementation of NIS involves a variety of collaborations, e.g., across managers and technical professionals, across the operators, and across safety and security experts, as shown on the figure below. However, we also show that security risk management practices cannot be directly transplanted from the safety realm. This is because cyber security is grounded in anticipation of the future uncertain adversarial behaviours, while safety risk management relies on a long history of data on equipment failure rates. As such, we call for exercising care while transplanting concepts from ‘safety culture’ into the realm of cyber security. Going forward, we recommend that NIS stakeholders encourage collaborative practices to implement NIS and advance security at a societal level, rather than working at organisational level only.
+<p><img src="assets/gallery/Ritics1.png" alt="Ritics1" style="display:block; margin-left:auto; margin-right:auto" width="500" height="600" /></p>
 
-![Ritics1](assets/gallery/Ritics1.png){:style="display:block; margin-left:auto; margin-right:auto"}{: width="500" }{: height="600" }
+<p>In the guidance <a href="https://ritics.org/wp-content/uploads/2023/10/ICS-COI-Resolving-Anti-Patterns.pdf">Resolving anti-patterns</a>, written collaboratively with the Industrial Control Systems Community of Interest, we identified five 'anti-patterns' (or poor practices), common in OT environments. We unpicked the thinking behind those anti-patterns, explains why they are examples of poor practice and proposed better alternatives. The anti-patterns analysed in the report are: 1) Flat, unsegmented/unsegregated architectures; 2) Uncontrolled access to ICS/OT networks; 3) Lack of authentication and data security; 4) Inaccurate asset inventory; 5) Unchecked backups.</p>
 
-In the guidance [Resolving anti-patterns](https://ritics.org/wp-content/uploads/2023/10/ICS-COI-Resolving-Anti-Patterns.pdf), written collaboratively with the Industrial Control Systems Community of Interest, we identified five 'anti-patterns' (or poor practices), common in OT environments. We unpicked the thinking behind those anti-patterns, explains why they are examples of poor practice and proposed better alternatives. The anti-patterns analysed in the report are: 1) Flat, unsegmented/unsegregated architectures; 2) Uncontrolled access to ICS/OT networks; 3) Lack of authentication and data security; 4) Inaccurate asset inventory; 5) Unchecked backups.
+<p><strong>Policy Recommendations for Competent Authorities:</strong></p>
+<ul>
+  <li><strong>Recommendation 1:</strong> Encourage voluntary sector-wide initiatives to benchmark responses to the NIS Regulations.</li>
+  <li><strong>Recommendation 2:</strong> Provide reassurance and remove the stigma from reporting incidents and vulnerabilities.</li>
+  <li><strong>Recommendation 3:</strong> Highlight the overlaps between the NIS Regulations and commonly accepted sector-specific safety guidelines and standards.</li>
+  <li><strong>Recommendation 4:</strong> Be cognizant of the cultural differences between safety and security which limit the potential for harmonisation, i.e. prescriptive thinking of safety engineers or secrecy of security practitioners.</li>
+  <li><strong>Recommendation 5:</strong> Clarify communications about the aims of Cyber Assessment Framework, i.e., specify whether the document serves the purpose of compliance or independent risk assessment.</li>
+</ul>
+
+<p><strong>Policy Recommendations on the Cyber Assessment framework:</strong></p>
+<ul>
+  <li><strong>Recommendation 6:</strong> Competent Authorities to clearly communicate the aim of self-assessments to the operators as well as the executive boards (i.e., CAF as a way to identify gaps, manage risks and agree on implementation plans). As a result, operators will not under pressure to achieve ‘green’ Indicators of Good Practice at all costs.</li>
+  <li><strong>Recommendation 7:</strong> Competent Authorities to emphasise the need to evidence operators’ cyber security journey over time. The evolution of cyber security posture over time is more important than self-assessing an outcome as ‘green’.</li>
+  <li><strong>Recommendation 8:</strong> Competent Authorities to highlight the need to continuous maintenance of ‘green’ CAF status. Operators ought to include CAF cyber security measures as their business-as-usual and prepare a long-term program of maintaining good cyber security outcomes.</li>
+  <li><strong>Recommendation 9:</strong> In the future, CAF inspections should move towards the analysis of emerging risks, gaps and evaluating operators’ responses over time.</li>
+</ul>
+
+<p><strong>Policy Recommendations regarding the scope of NIS in the UK:</strong></p>
+<ul>
+  <li><strong>Recommendation 10:</strong> The UK Government ought to balance between the proposed broadening of the scope of the EU NIS2 and advancing maturity of safety-critical systems.</li>
+  <li><strong>Recommendation 11:</strong> The UK Government should share the strategic directions with regards to the future of NIS to enable alignment with similar initiatives.</li>
+  <li><strong>Recommendation 12:</strong> The UK Government ought to respond to the dilemma between achieving a common baseline and proactive risk management.</li>
+  <li><strong>Recommendation 13:</strong> All stakeholders should consider the cascading effects on small operators that currently do not fall under scope, especially as interoperability and digitalisation initiatives are under way.</li>
+  <li><strong>Recommendation 14:</strong> The UK Government ought to balance between the proposed broadening of the scope (DCMS, 2022) and advancing maturity of safety-critical systems.</li>
+  <li><strong>Recommendation 15:</strong> The UK Government should share the strategic directions with regards to the future of NIS to enable alignment with similar initiatives (e.g., standardisation of Energy Smart Appliances (BEIS, 2022)).</li>
+  <li><strong>Recommendation 16:</strong> The UK Government ought to respond to the dilemma between achieving a common baseline and proactive ‘outcomes-based’ risk management. A consideration of two-tier regulatory measures ought to take place to address this dilemma.</li>
+  <li><strong>Recommendation 17:</strong> All stakeholders should consider the cascading effects on small operators that currently do not fall under scope, especially as interoperability and digitalisation initiatives are under way (BEIS, 2022).</li>
+  <li><strong>Recommendation 18:</strong> Future UK Government activities ought to prioritise communicating clarity in the strategic direction. We need a timely response to the EU proposals on NIS2 to enable harmonisation at the international level and cross-referencing NIS to upcoming standards (e.g., consumer IoT security) and sectoral security initiatives (e.g., Energy Smart Appliances). We can expect renewed discussions on scope, incident thresholds and the notion of the ‘appropriateness and proportionality’.</li>
+</ul>
+
+<p><strong>Project team:</strong> Dr Ola Michalec (Fellow)</p>
+
+<p><strong>Outputs:</strong></p>
+<ul>
+  <li><strong>Report:</strong> "Resolving Anti-Patterns in Industrial Control Systems Environments". 2023. Contribution to the Report by the National Cyber Security Centre Industrial Control Systems Community of Interest. <a href="https://ritics.org/wp-content/uploads/2023/10/ICS-COI-Resolving-Anti-Patterns.pdf">Full text</a></li>
+  <li><strong>Report:</strong> "What’s next for the NIS Regulations? Findings from the RITICS Fellowship". 2023. Michalec, O. <a href="https://ritics.org/wp-content/uploads/2023/06/Whats-next-for-NIS-RITICS-report-final-310123.pdf">Full text</a></li>
+</ul>
 
 
-**Policy Recommendations for Competent Authorities:**
-* Recommendation 1: Encourage voluntary sector-wide initiatives to benchmark responses to the NIS Regulations.
-
-* Recommendation 2: Provide reassurance and remove the stigma from reporting incidents and vulnerabilities.
-
-* Recommendation 3: Highlight the overlaps between the NIS Regulations and commonly accepted sector-specific safety guidelines and standards.
-
-* Recommendation 4: Be cognizant of the cultural differences between safety and security which limit the potential for harmonisation, i.e. prescriptive thinking of safety engineers or secrecy of security practitioners.
-
-* Recommendation 5: Clarify communications about the aims of Cyber Assessment Framework, i.e., specify whether the document serves the purpose of compliance or independent risk assessment.
-
-**Policy Recommendations on the Cyber Assessment framework:**
-
-* Recommendation 6: Competent Authorities to clearly communicate the aim of self-assessments to the operators as well as the executive boards (i.e., CAF as a way to identify gaps, manage risks and agree on implementation plans). As a result, operators will not under pressure to achieve ‘green’ Indicators of Good Practice at all costs.
-
-* Recommendation 7: Competent Authorities to emphasise the need to evidence operators’ cyber security journey over time. The evolution of cyber security posture over time is more important than self-assessing an outcome as ‘green’.
-
-* Recommendation 8: Competent Authorities to highlight the need to continuous maintenance of ‘green’ CAF status. Operators ought to include CAF cyber security measures as their business-as-usual and prepare a long-term program of maintaining good cyber security outcomes
-
-* Recommendation 9: In the future, CAF inspections should move towards the analysis of emerging risks, gaps and evaluating operators’ responses over time.
-
-**Policy Recommendations regarding the scope of NIS in the UK:**
-
-* Recommendation 10: The UK Government ought to balance between the proposed broadening of the scope of the EU NIS2 and advancing maturity of safety-critical systems.
-
-* Recommendation 11: The UK Government should share the strategic directions with regards to the future of NIS to enable alignment with similar initiatives.
-
-* Recommendation 12: The UK Government ought to respond to the dilemma between achieving a common baseline and proactive risk management.
-
-* Recommendation 13: All stakeholders should consider the cascading effects on small operators that currently do not fall under scope, especially as interoperability and digitalisation initiatives are under way
-
-* Recommendation 14: The UK Government ought to balance between the proposed broadening of the scope (DCMS, 2022) and advancing maturity of safety-critical systems.
-
-* Recommendation 15: The UK Government should share the strategic directions with regards to the future of NIS to enable alignment with similar initiatives (e.g., standardisation of Energy Smart Appliances (BEIS, 2022).
-
-* Recommendation 16: The UK Government ought to respond to the dilemma between achieving a common baseline and proactive ‘outcomes-based’ risk management. A consideration of two-tier regulatory measures ought to take place to address this dilemma.
-
-* Recommendation 17: All stakeholders should consider the cascading effects on small operators that currently do not fall under scope, especially as interoperability and digitalisation initiatives are under way (BEIS, 2022).
-
-* Recommendation 18:  Future UK Government activities ought to prioritise communicating clarity in the strategic direction. We need a timely response to the EU proposals on NIS2 to enable harmonisation at the international level and cross-referencing NIS to upcoming standards (e.g., consumer IoT security) and sectoral security initiatives (e.g., Energy Smart Appliances). We can expect renewed discussions on scope, incident thresholds and the notion of the ‘appropriateness and proportionality’.
-
-**Project team:** Dr Ola Michalec (Fellow)
-
-**Outputs:**
-* **Report:** "Resolving Anti-Patterns in Industrial Control Systems Environments". 2023. Contribution to the Report by the National Cyber Security Centre Industrial Control Systems Community of Interest. [Full text](https://ritics.org/wp-content/uploads/2023/10/ICS-COI-Resolving-Anti-Patterns.pdf)
-
-* **Report:** "What’s next for the NIS Regulations? Findings from the RITICS Fellowship". 2023. Michalec, O.  [Full text](https://ritics.org/wp-content/uploads/2023/06/Whats-next-for-NIS-RITICS-report-final-310123.pdf)
   </p>
 </details>
 
