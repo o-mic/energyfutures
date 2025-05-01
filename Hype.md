@@ -4,7 +4,6 @@ title: Hype
 
 ![Hype-1](assets/img/energy-hype1.gif){:style="display:block; margin-left:auto; margin-right:auto"}{: width="350" }{: height="350" }
 
-TODO: embed RGS and ESC videos, add power point pres as a pdf?
 
 <h3> <p style="text-align: center;"> Living in a simulation? Cybernetic promises and data challenges of digital twins to decarbonise energy systems </p> </h3> 
 
@@ -37,9 +36,20 @@ Decarbonising energy systems by 2050 presents multiple dilemmas between national
 </div>
 <p><strong>Outputs:</strong></p>
 <ul>
-  <li><strong>Peer-reviewed journal article:</strong> "“Models vs infrastructures? On the role of digital twins’ hype in anticipating the governance of the UK energy industry”. In Environmental Science and Policy (Special Issue on twin transitions). 2025. By Michalec, O.". <a href="https://doi.org/10.1016/j.envsci.2025.104041">Full text</a></li>
+  <li><strong>Peer-reviewed journal article:</strong> "Models vs infrastructures? On the role of digital twins’ hype in anticipating the governance of the UK energy industry”. In Environmental Science and Policy (Special Issue on twin transitions). 2025. By Michalec, O.. <a href="https://doi.org/10.1016/j.envsci.2025.104041">Full text</a></li>
+  <li><strong>Webinar:</strong> "Developing digital twins in the energy industry". In Value in Energy Data, Energy Systems Catapult webinar. 2025. By Michalec, O.. <a href="https://www.youtube.com/watch?v=m7YmwzSdXxM&t=2144s&ab_channel=EnergySystemsCatapult">Full video</a></li>
 </ul>
 
+<!DOCTYPE html>
+<html>
+  <head>
+   <title>Developing Digital Twin in the Energy Industry</title>
+  </head>
+  <body>
+    <h1>Developing Digital Twin in the Energy Industry</h1>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m7YmwzSdXxM?si=8A-K8rTlOR-fIygD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </body>
+</html>
 
   </p>
   </details>
