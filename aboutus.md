@@ -13,7 +13,7 @@ title: About us
 <br />
 Hello world! My name is Ola Michalec and I have built this website! I'm a Lecturer in Digital Futures and I'm based at the University of Bristol Business School and [Bristol Digital Futures Institute](https://www.bristol.ac.uk/bristol-digital-futures-institute/).
 
-My research interests revolve around understanding how experts from diverse fields collaborate on digital innovations. Over the past decade, I have applied this question to the context of critical infrastructures, cyber security, and energy industry. I contribute to debates in Science and Technology Studies and play an active role in communities engaging researchers with practitioners such as [Research Institute for Sociotechnical Cyber Security](https://riscs.org.uk/). I'm also a co-founder of [Hype Studies Group)(https://hypestudies.org/), a new initiative aiming to understand how trends, innovation narratives and buzzwords influence technology and science.
+My research interests revolve around understanding how experts from diverse fields collaborate on digital innovations. Over the past decade, I have applied this question to the context of critical infrastructures, cyber security, and energy industry. I contribute to debates in Science and Technology Studies and play an active role in communities engaging researchers with practitioners such as [Research Institute for Sociotechnical Cyber Security](https://riscs.org.uk/). I'm also a co-founder of [Hype Studies Group](https://hypestudies.org/), a new initiative aiming to understand how trends, innovation narratives and buzzwords influence technology and science.
 
 
 <br />
