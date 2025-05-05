@@ -6,8 +6,7 @@
 
 source 'https://rubygems.org'
 
-gem 'jekyll', '~> 4.3'
-gem 'bundler', '~> 2.3'
+gem 'jekyll', '~> 4.4'
 
 # Add other plugins you want to use
 gem 'jekyll-seo-tag'
