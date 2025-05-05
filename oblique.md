@@ -2,7 +2,7 @@
 
 Page under construction - [get in touch](mailto:ola.michalec@bristol.ac.uk) if you'd like to be notified about our updates.
 
-**In the meantme, you can read about the project idea below:**
+**In the meantime, you can read about the project idea below:**
 
 Over 2023-2024, I spent several months talking to innovators and R&D funders about the evolving ecosystem for the so-called digital twins in the UK. Hearing stories of collective mobilisation, enthusiasm, then disappointment, pivoting and future uncertainty made me reflect about the need to surface the perspectives on hype beyond academic critiques and curate safer spaces for discussing innovators’ own expectations and vulnerabilities. How to challenge the faux-optimistic, hasty and culture of software start ups? 
 
