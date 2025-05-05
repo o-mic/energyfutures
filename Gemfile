@@ -7,6 +7,7 @@
 source 'https://rubygems.org'
 
 gem 'jekyll', '~> 4.4'
+gem 'appraisal', '~> 2.5'
 
 # Add other plugins you want to use
 gem 'jekyll-seo-tag'
