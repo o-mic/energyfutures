@@ -1,4 +1,0 @@
----
----
-
-Data sharing infrastucture research
