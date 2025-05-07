@@ -21,7 +21,7 @@ author: Ola Michalec
 
 navbar-links:
   About Us: "aboutus"
-  News: "news"
+  # News: "news"
   Publications: "publications"
   Digital Twins: 
    - Hype: "Hype"
