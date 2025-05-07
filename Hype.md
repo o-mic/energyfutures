@@ -46,11 +46,14 @@ Decarbonising energy systems by 2050 presents multiple dilemmas between national
   <li><strong>Peer-reviewed journal article:</strong> "Models vs infrastructures? On the role of digital twins’ hype in anticipating the governance of the UK energy industry”. In Environmental Science and Policy (Special Issue on twin transitions). 2025. By Michalec, O.. <a href="https://doi.org/10.1016/j.envsci.2025.104041">Full text</a></li>
   <li><strong>Webinar:</strong> "Developing digital twins in the energy industry". In Value in Energy Data, Energy Systems Catapult webinar. 2025. By Michalec, O.. <a href="https://www.youtube.com/watch?v=m7YmwzSdXxM&t=2144s&ab_channel=EnergySystemsCatapult">Full video</a></li>
 </ul>
+<div style="text-align: center; position: relative; margin: 2em 0;">
+  <hr style="border: none; border-top: 1px solid #ccc; margin: 0;">
+  <span style="position: absolute; top: -0.7em; left: 50%; transform: translateX(-50%); background: #f6f6f6; padding: 0 0.5em;">***</span>
+</div>
 
-<!DOCTYPE html>
 <html>
   <head>
-   <title>Developing Digital Twin in the Energy Industry</title>
+   <title>Developing Digital Twins in the Energy Industry</title>
   </head>
   <body>
     <h1>Developing Digital Twin in the Energy Industry</h1>
@@ -61,25 +64,31 @@ Decarbonising energy systems by 2050 presents multiple dilemmas between national
   </p>
   </details>
 
+  <div style="text-align: center; position: relative; margin: 2em 0;">
+  <hr style="border: none; border-top: 1px solid #ccc; margin: 0;">
+  <span style="position: absolute; top: -0.7em; left: 50%; transform: translateX(-50%); background: #f6f6f6; padding: 0 0.5em;">***</span>
+</div>
+
   ![Hype-2](assets/img/energy-hype2.gif){:style="display:block; margin-left:auto; margin-right:auto"}{: width="350" }{: height="350" }
 
   <h3> <p style="text-align: center;"> Hype Studies Group </p> </h3> 
 
-[Hype Studies](https://hypestudies.org/) is an emergent, transdisciplinary research area aimed to investigate hype as a powerful and pervasive phenomenon that influences economic trends, political agendas, media narratives, and technological developments. We are a group of researchers and designers exploring how hype is a thing that does things. As a force composing and affecting attention, markets, politics, feelings, imagination, matter and knowledge, time and space. The Hype Studies group will be sharing resources and organising events to collectively understand and intervene into hype and its politics.
+[Hype Studies](https://hypestudies.org/) is an emergent, transdisciplinary research area aimimg to investigate hype as a powerful and pervasive phenomenon that influences economic trends, political agendas, media narratives, and technological developments. We understand hype as a force composing and affecting attention, markets, politics, feelings, imagination, matter and knowledge. The Hype Studies group will be sharing resources and organising events to collectively understand and intervene into hype and its politics.
 
 Join us for the inaugural [conference](https://hypestudies.org/conference) at the Universitat Oberta de Catalunya 10-12th September 2025 (hybrid attendance available). We hope that the conference will attract researchers interested in how energy innovations suceed or fail. In the age of noise and careless promises, how can we better evaluate hype related to 'sustainable' technologies?
 
 
   <details>
    <summary><strong>[Read more]</strong></summary>
-  <p>
-  <p><strong>Conference:</strong></p>
 <div style="text-align: center; position: relative; margin: 2em 0;">
   <hr style="border: none; border-top: 1px solid #ccc; margin: 0;">
   <span style="position: absolute; top: -0.7em; left: 50%; transform: translateX(-50%); background: #f6f6f6; padding: 0 0.5em;">***</span>
 </div>
+
   <p><strong>Commissioned artwork</strong></p>
   <br>
+
+ <p>Coming soon!</p>
 <div style="text-align: center; position: relative; margin: 2em 0;">
   <hr style="border: none; border-top: 1px solid #ccc; margin: 0;">
   <span style="position: absolute; top: -0.7em; left: 50%; transform: translateX(-50%); background: #f6f6f6; padding: 0 0.5em;">***</span>
@@ -91,7 +100,8 @@ Join us for the inaugural [conference](https://hypestudies.org/conference) at th
 </div>
 <p><strong>Outputs:</strong></p>
 <ul>
-  <li><strong>type:</strong> "referece". <a href="link">Full text</a></li>
+  <p>Coming soon!</p> 
+  <li><strong>type:</strong> "reference". <a href="link">Full text</a></li>
 </ul>
 
 
