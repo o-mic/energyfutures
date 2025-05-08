@@ -26,11 +26,11 @@ Decarbonising energy systems by 2050 presents multiple dilemmas between national
  <p><strong>Policy Recommendations:</strong></p>
   <br>
   <ul>
-  <li><strong>Recommendation 1</strong>DESNZ or Innovate UK to commission research charting of the interests, business models and powers of future software services: ‘companies are planting their flags. There are a few monopolies that are starting to being or be built or required for the energy system, and people want them because, well, it's a guaranteed return’ (interview quote). Within that, the energy industry ought to learn from the rich literature on theorising platform power dynamics through regulatory capture and empirical cases from other sectors.</li>
-<li><<strong>Recommendation 2</strong>The National Digital Twin Programme and Alan Turing Digital Twin Network+ to launch interdisciplinary exchanges workshops on interoperability where energy practitioners, lawyers, economists, political researchers and computer scientists together discuss the implications of various architectures and metadata formats.</li>
-<li><strong>Recommendation 3</strong>Ofgem to move beyond the pilot project as a default mode of R&D, focusing instead on mandating the upgrade of mundane legacy issues, like inconsistencies in data formats across DNOs.</li>
-<li><strong>Recommendation 4</strong>Ofgem and Cabinet office to increase the transparency in public procurement of software to improve public trust in energy digitalisation and avoid controversies like the NHS procuring Palantir to process patient data. </li>
-<li><strong>Recommendation 5</strong>Think tanks and NGOs (e.g. Regen, Citizen Advice Bureau) to revive debate about consumer privacy ahead of the creation of the consumer data consent mechanism. The framing should be a matter of advancing evidence-based deliberation rather than solely informing citizens.</li>
+  <li><strong>Recommendation 1: </strong>DESNZ or Innovate UK to commission research charting of the interests, business models and powers of future software services: ‘companies are planting their flags. There are a few monopolies that are starting to being or be built or required for the energy system, and people want them because, well, it's a guaranteed return’ (interview quote). Within that, the energy industry ought to learn from the rich literature on theorising platform power dynamics through regulatory capture and empirical cases from other sectors.</li>
+<li><<strong>Recommendation 2: </strong>The National Digital Twin Programme and Alan Turing Digital Twin Network+ to launch interdisciplinary exchanges workshops on interoperability where energy practitioners, lawyers, economists, political researchers and computer scientists together discuss the implications of various architectures and metadata formats.</li>
+<li><strong>Recommendation 3: </strong>Ofgem to move beyond the pilot project as a default mode of R&D, focusing instead on mandating the upgrade of mundane legacy issues, like inconsistencies in data formats across DNOs.</li>
+<li><strong>Recommendation 4: </strong>Ofgem and Cabinet office to increase the transparency in public procurement of software to improve public trust in energy digitalisation and avoid controversies like the NHS procuring Palantir to process patient data. </li>
+<li><strong>Recommendation 5: </strong>Think tanks and NGOs (e.g. Regen, Citizen Advice Bureau) to revive debate about consumer privacy ahead of the creation of the consumer data consent mechanism. The framing should be a matter of advancing evidence-based deliberation rather than solely informing citizens.</li>
 </ul>
 <div style="text-align: center; position: relative; margin: 2em 0;">
   <hr style="border: none; border-top: 1px solid #ccc; margin: 0;">
@@ -105,6 +105,6 @@ Join us for the inaugural [conference](https://hypestudies.org/conference) at th
 </ul>
 
 
-  </p>
+  
   </details>
   
