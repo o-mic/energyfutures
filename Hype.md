@@ -27,7 +27,7 @@ Decarbonising energy systems by 2050 presents multiple dilemmas between national
   <br>
   <ul>
   <li><strong>Recommendation 1: </strong>DESNZ or Innovate UK to commission research charting of the interests, business models and powers of future software services: ‘companies are planting their flags. There are a few monopolies that are starting to being or be built or required for the energy system, and people want them because, well, it's a guaranteed return’ (interview quote). Within that, the energy industry ought to learn from the rich literature on theorising platform power dynamics through regulatory capture and empirical cases from other sectors.</li>
-<li><<strong>Recommendation 2: </strong>The National Digital Twin Programme and Alan Turing Digital Twin Network+ to launch interdisciplinary exchanges workshops on interoperability where energy practitioners, lawyers, economists, political researchers and computer scientists together discuss the implications of various architectures and metadata formats.</li>
+<li><strong>Recommendation 2: </strong>The National Digital Twin Programme and Alan Turing Digital Twin Network+ to launch interdisciplinary exchanges workshops on interoperability where energy practitioners, lawyers, economists, political researchers and computer scientists together discuss the implications of various architectures and metadata formats.</li>
 <li><strong>Recommendation 3: </strong>Ofgem to move beyond the pilot project as a default mode of R&D, focusing instead on mandating the upgrade of mundane legacy issues, like inconsistencies in data formats across DNOs.</li>
 <li><strong>Recommendation 4: </strong>Ofgem and Cabinet office to increase the transparency in public procurement of software to improve public trust in energy digitalisation and avoid controversies like the NHS procuring Palantir to process patient data. </li>
 <li><strong>Recommendation 5: </strong>Think tanks and NGOs (e.g. Regen, Citizen Advice Bureau) to revive debate about consumer privacy ahead of the creation of the consumer data consent mechanism. The framing should be a matter of advancing evidence-based deliberation rather than solely informing citizens.</li>
@@ -36,15 +36,15 @@ Decarbonising energy systems by 2050 presents multiple dilemmas between national
   <hr style="border: none; border-top: 1px solid #ccc; margin: 0;">
   <span style="position: absolute; top: -0.7em; left: 50%; transform: translateX(-50%); background: #f6f6f6; padding: 0 0.5em;">***</span>
 </div>
-<p><strong>Project team:</strong> Dr Ola Michalec (Fellow)</p>
+<p><strong>Project team:</strong> Dr Ola Michalec (Fellow), hosted by Energy Systems Catapult </p>
 <div style="text-align: center; position: relative; margin: 2em 0;">
   <hr style="border: none; border-top: 1px solid #ccc; margin: 0;">
   <span style="position: absolute; top: -0.7em; left: 50%; transform: translateX(-50%); background: #f6f6f6; padding: 0 0.5em;">***</span>
 </div>
 <p><strong>Outputs:</strong></p>
 <ul>
-  <li><strong>Peer-reviewed journal article:</strong> "Models vs infrastructures? On the role of digital twins’ hype in anticipating the governance of the UK energy industry”. In Environmental Science and Policy (Special Issue on twin transitions). 2025. By Michalec, O.. <a href="https://doi.org/10.1016/j.envsci.2025.104041">Full text</a></li>
-  <li><strong>Webinar:</strong> "Developing digital twins in the energy industry". In Value in Energy Data, Energy Systems Catapult webinar. 2025. By Michalec, O.. <a href="https://www.youtube.com/watch?v=m7YmwzSdXxM&t=2144s&ab_channel=EnergySystemsCatapult">Full video</a></li>
+  <li><strong>Peer-reviewed journal article:</strong> "Models vs infrastructures? On the role of digital twins’ hype in anticipating the governance of the UK energy industry”. In Environmental Science and Policy (Special Issue on twin transitions). 2025. By Michalec, O. <a href="https://doi.org/10.1016/j.envsci.2025.104041">Full text</a></li>
+  <li><strong>Webinar:</strong> "Developing digital twins in the energy industry". In Value in Energy Data, Energy Systems Catapult webinar. 2025. By Michalec, O. <a href="https://www.youtube.com/watch?v=m7YmwzSdXxM&t=2144s&ab_channel=EnergySystemsCatapult">Full video</a></li>
 </ul>
 <div style="text-align: center; position: relative; margin: 2em 0;">
   <hr style="border: none; border-top: 1px solid #ccc; margin: 0;">
@@ -53,7 +53,7 @@ Decarbonising energy systems by 2050 presents multiple dilemmas between national
 
 <html>
   <head>
-   <title>Developing Digital Twins in the Energy Industry</title>
+   <title>Webinar: Developing Digital Twins in the Energy Industry</title>
   </head>
   <body>
     <h1>Developing Digital Twin in the Energy Industry</h1>
@@ -75,7 +75,7 @@ Decarbonising energy systems by 2050 presents multiple dilemmas between national
 
 [Hype Studies](https://hypestudies.org/) is an emergent, transdisciplinary research area aimimg to investigate hype as a powerful and pervasive phenomenon that influences economic trends, political agendas, media narratives, and technological developments. We understand hype as a force composing and affecting attention, markets, politics, feelings, imagination, matter and knowledge. The Hype Studies group will be sharing resources and organising events to collectively understand and intervene into hype and its politics.
 
-Join us for the inaugural [conference](https://hypestudies.org/conference) at the Universitat Oberta de Catalunya 10-12th September 2025 (hybrid attendance available). We hope that the conference will attract researchers interested in how energy innovations suceed or fail. In the age of noise and careless promises, how can we better evaluate hype related to 'sustainable' technologies?
+**Coming soon:** Join us for the inaugural [Hype Studies Conference](https://hypestudies.org/conference) at the Universitat Oberta de Catalunya 10-12th September 2025 (hybrid attendance available). We hope that the conference will attract researchers interested in how energy innovations suceed or fail. In the age of noise and careless promises, how can we better evaluate hype related to 'sustainable' technologies? The conference is open to everyone and free to attend.
 
 
   <details>
@@ -87,7 +87,6 @@ Join us for the inaugural [conference](https://hypestudies.org/conference) at th
 
   <p><strong>Commissioned artwork</strong></p>
   <br>
-
  <p>Coming soon!</p>
 <div style="text-align: center; position: relative; margin: 2em 0;">
   <hr style="border: none; border-top: 1px solid #ccc; margin: 0;">
@@ -100,8 +99,8 @@ Join us for the inaugural [conference](https://hypestudies.org/conference) at th
 </div>
 <p><strong>Outputs:</strong></p>
 <ul>
-  <p>Coming soon!</p> 
-  <li><strong>type:</strong> "reference". <a href="link">Full text</a></li>
+  <li><strong>Website:</strong> <a href="https://hypestudies.org/">www.hypestudies.org<a></li>
+  
 </ul>
 
 
