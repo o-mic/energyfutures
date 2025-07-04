@@ -99,11 +99,6 @@ Decarbonising energy systems by 2050 presents multiple dilemmas between national
 </div>
 <p><strong>Outputs:</strong></p>
 <ul>
-  <li><strong>Website:</strong> <a href="https://hypestudies.org/">www.hypestudies.org<a></li>
-  
+  <li><strong>Website:</strong> <a href="https://hypestudies.org/">www.hypestudies.org</a></li>
 </ul>
-
-
-  
-  </details>
   
