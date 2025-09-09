@@ -11,6 +11,6 @@ We're excited to share our collection of short stories, poems and illustration b
 
 The stories are complemented with illustrations by [Eve Pyra](https://www.evepyra.com/illustration-portfolio) and cover design and typesetting by [Wen Li](https://www.linkedin.com/in/wen-li-038787141/). 
 
-You can access the story for free here - please don't forget to credit the team if citing the works! The images are subject to copyright.
+You can access the story for free [here](assets/New-Colours-online.pdf) - please don't forget to credit the team if citing the works! The images are subject to copyright.
 
 
